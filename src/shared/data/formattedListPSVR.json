@@ -1,0 +1,6084 @@
+[
+  {
+    "title": "North America",
+    "image": "",
+    "releaseDate": { "na": "", "eu": "", "jp": "", "asia": "" },
+    "genre": "Europe",
+    "developer": "Japan",
+    "publisher": "Asia non-Japan",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The 100 Wonders of Japan: Fall Leaves Changing in Kyoto",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-21-0000Sep 21, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive movie",
+    "developer": "Kyodo Television",
+    "publisher": "Kyodo Television",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The 100 Wonders of Japan: Fuji - The Holy Mountain",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-21-0000Sep 21, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive movie",
+    "developer": "Kyodo Television",
+    "publisher": "Kyodo Television",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The 100 Wonders of Japan: Himeji Castle",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-21-0000Sep 21, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive movie",
+    "developer": "Kyodo Television",
+    "publisher": "Kyodo Television",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The 100 Wonders of Japan: Takachiho - Mysterious land",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002018-06-15-0000Jun 15, 2018",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive movie",
+    "developer": "Kyodo Television",
+    "publisher": "Kyodo Television",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "100ft Robot Golf",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-10-0000Oct 10, 2016",
+      "eu": "000000002016-10-10-0000Oct 10, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "No Goblin",
+    "publisher": "No Goblin",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "22Block Kush Avenger",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Fighting",
+    "developer": "22Block Studios",
+    "publisher": "22Block Media",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "2MD: VR Football",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-08-0000May 8, 2018",
+      "eu": "000000002018-05-08-0000May 8, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "Truant Pixel",
+    "publisher": "Truant Pixel",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "360 Date Osana Najimi",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-21-0000Sep 21, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive movie",
+    "developer": "Kyodo Television",
+    "publisher": "Kyodo Television",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "502nd JFW Brave Witches VR: Operation Baba-Yaga",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-04-02-0000Apr 2, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Aerial combat",
+    "developer": "Production I.G.",
+    "publisher": "Production I.G.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "A-Train Express",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002017-12-21-0000Dec 21, 2017",
+      "asia": "TBA"
+    },
+    "genre": "City development railroad simulation",
+    "developer": "Artdink",
+    "publisher": "Artdink",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Accounting+",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-19-0000Dec 19, 2017",
+      "eu": "000000002017-12-19-0000Dec 19, 2017",
+      "jp": "000000002017-12-19-0000Dec 19, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Exploration game",
+    "developer": "Squanch Games",
+    "publisher": "Crows Crows Crows",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ace Banana",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Action",
+    "developer": "Oasis Games",
+    "publisher": "Oasis Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ace Combat 7",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Combat flight sim",
+    "developer": "Project Aces",
+    "publisher": "Bandai Namco Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Albino Lullaby",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Horror",
+    "developer": "Ape Law",
+    "publisher": "Ape Law",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Along Together",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-29-0000May 29, 2018",
+      "eu": "000000002018-05-29-0000May 29, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Puzzle, adventure",
+    "developer": "Turbo Button",
+    "publisher": "Turbo Button",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Alvo",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Mardonpol Inc.",
+    "publisher": "Mardonpol Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The American Dream",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-14-0000Mar 14, 2018",
+      "eu": "000000002018-03-14-0000Mar 14, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "FPS",
+    "developer": "Samurai Punk",
+    "publisher": "Samurai Punk",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Anamorphine",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Interactive Experience",
+    "developer": "Artifact 5",
+    "publisher": "Artifact 5",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ancient Amuletor",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-06-27-0000Jun 27, 2017",
+      "eu": "000000002017-06-27-0000Jun 27, 2017",
+      "jp": "000000002017-07-13-0000Jul 13, 2017",
+      "asia": "000000002017-07-13-0000Jul 13, 2017"
+    },
+    "genre": "Action, tower defense",
+    "developer": "TiGames",
+    "publisher": "Time of Virtual Reality",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Animal Force",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002018-05-22-0000May 22, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Strategy",
+    "developer": "Sony Interactive Ent.",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Apollo 11: VR Experience",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-25-0000Jul 25, 2017",
+      "eu": "000000002017-03-01-0000Mar 1, 2017",
+      "jp": "000000002018-03-05-0000Mar 5, 2018",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "David Whelan",
+    "publisher": "Immersive VR Education",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Apex Construct",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-20-0000Feb 20, 2018",
+      "eu": "000000002018-02-20-0000Feb 20, 2018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Action-adventure",
+    "developer": "Fast Travel Games",
+    "publisher": "Fast Travel Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Aquarion Evol",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Action",
+    "developer": "Satelight",
+    "publisher": "Satelight",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ariel",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Survival",
+    "developer": "Nuclear Fiction",
+    "publisher": "Nuclear Fiction",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Archangel",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-18-0000Jul 18, 2017",
+      "eu": "000000002017-08-22-0000Aug 22, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Shooter",
+    "developer": "Skydance Interactive",
+    "publisher": "Skydance Interactive",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "ArchiVR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "",
+    "developer": "Ground Control Studios",
+    "publisher": "Ground Control Studios, Studio-Station Architecture",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Arizona Sunshine",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-06-27-0000Jun 27, 2017",
+      "eu": "000000002017-07-05-0000Jul 5, 2017",
+      "jp": "000000002018-03-22-0000Mar 22, 2018",
+      "asia": "000000002018-03-22-0000Mar 22, 2018"
+    },
+    "genre": "First-person shooter, survival",
+    "developer": "Vertigo Games",
+    "publisher": "Vertigo Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ark Park",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-22-0000Mar 22, 2018",
+      "eu": "000000002018-03-22-0000Mar 22, 2018",
+      "jp": "000000002018-03-22-0000Mar 22, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Aventure, simulation",
+    "developer": "Snail Games",
+    "publisher": "Studio Wildcard",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Assembly",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-11-02-0000Nov 2, 2016"
+    },
+    "genre": "Adventure",
+    "developer": "nDreams",
+    "publisher": "nDreams",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Astro Bot Rescue Mission",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure, platform",
+    "developer": "Japan Studio",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Atomic Ghost Fleet",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "000000002017-04-07-0000Apr 7, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive Experience",
+    "developer": "Alchemy VR",
+    "publisher": "Alchemy VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "ATV Drift & Tricks",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-11-14-0000Nov 14, 2017",
+      "eu": "000000002017-10-26-0000Oct 26, 2017",
+      "jp": "000000002018-01-18-0000Jan 18, 2018",
+      "asia": "Unreleased"
+    },
+    "genre": "Racing",
+    "developer": "Anuman Interactive SA",
+    "publisher": "Anuman Interactive SA",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Audio Beats",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "000000002018-03-21-0000Mar 21, 2018",
+      "jp": "Unreleased",
+      "asia": "000000002017-12-18-0000Dec 18, 2017"
+    },
+    "genre": "Music",
+    "developer": "Famiku",
+    "publisher": "Famiku",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bandit Six: Combined Arms",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-19-0000Apr 19, 2017",
+      "eu": "000000002017-04-19-0000Apr 19, 2017",
+      "jp": "000000002018-02-01-0000Feb 1, 2018",
+      "asia": "000000002018-02-01-0000Feb 1, 2018"
+    },
+    "genre": "Action",
+    "developer": "Climax Studios",
+    "publisher": "Climax Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Baskhead Training",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002017-10-11-0000Oct 11, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "VRLINES",
+    "publisher": "VRLINES",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Batman: Arkham VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Action-adventure",
+    "developer": "Rocksteady Studios",
+    "publisher": "Warner Bros Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Battlezone",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Vehicular combat",
+    "developer": "Rebellion Developments",
+    "publisher": "Rebellion Developments",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Beat Saber",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Rhythm",
+    "developer": "Hyperbolic Magnetism",
+    "publisher": "Hyperbolic Magnetism",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bebylon Battle Royale",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Brawler",
+    "developer": "Kite & Lightning",
+    "publisher": "Kite & Lightning",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Bellows",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-11-0000Jul 11, 2017",
+      "eu": "TBA",
+      "jp": "000000002017-11-02-0000Nov 2, 2017",
+      "asia": "TBA"
+    },
+    "genre": "Horror",
+    "developer": "Castle Steps",
+    "publisher": "Castle Steps",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bikerider VR",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-02-21-0000Feb 21, 2017",
+      "asia": "000000002017-02-21-0000Feb 21, 2017"
+    },
+    "genre": "Bike runner",
+    "developer": "Chariso",
+    "publisher": "Chariso",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Black Hat Cooperative",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-29-0000May 29, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Team Future",
+    "publisher": "Team Future",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Blasters of the Universe",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-27-0000Feb 27, 2018",
+      "eu": "000000002018-02-27-0000Feb 27, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Brawler",
+    "developer": "Secret Location",
+    "publisher": "Secret Location",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bloody Zombies",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-12-0000Sep 12, 2017",
+      "eu": "000000002017-09-12-0000Sep 12, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Brawler",
+    "developer": "nDreams",
+    "publisher": "nDreams",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Blood & Truth",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Sony London Studio",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bound",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Action, platform",
+    "developer": "Plastic",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bow to Blood",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Aerial combat",
+    "developer": "Tribetoy",
+    "publisher": "Tribetoy",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Bravo Team",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-06-0000Mar 6, 2018",
+      "eu": "000000002018-03-07-0000Mar 7, 2018",
+      "jp": "TBA",
+      "asia": "000000002018-03-07-0000Mar 7, 2018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Supermassive Games",
+    "publisher": "Supermassive Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Brookhaven Experiment",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-11-09-0000Nov 9, 2016",
+      "jp": "000000002017-02-23-0000Feb 23, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Survival Horror",
+    "developer": "Phosphor Games",
+    "publisher": "Phosphor Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cavernous Wastes",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-06-27-0000Jun 27, 2017",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "PouncingKitten Games",
+    "publisher": "PouncingKitten Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Carnival Games VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-28-0000Oct 28, 2016",
+      "eu": "000000002016-10-28-0000Oct 28, 2016",
+      "jp": "000000002017-01-12-0000Jan 12, 2017",
+      "asia": "000000002016-10-28-0000Oct 28, 2016"
+    },
+    "genre": "Party",
+    "developer": "Cat Daddy Games",
+    "publisher": "2K Play",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Carpe Lucem – Seize the Light",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Puzzle",
+    "developer": "Hammer Labs",
+    "publisher": "Application Systems",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "CastleStorm VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-01-0000Aug 1, 2017",
+      "eu": "000000002017-08-01-0000Aug 1, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Strategy",
+    "developer": "Zen Studios",
+    "publisher": "Zen Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Catlateral Damage",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Chris Chung",
+    "publisher": "Fire Hose Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Chainman",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002017-12-15-0000Dec 15, 2017",
+      "asia": "TBA"
+    },
+    "genre": "Survival horror",
+    "developer": "ouka-ichi-mon.inc",
+    "publisher": "ouka-ichi-mon.inc",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Chernobyl VR Project",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-29-0000Sep 29, 2017",
+      "eu": "000000002017-09-29-0000Sep 29, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "The Farm 51",
+    "publisher": "The Farm 51",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Chess Ultra",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-06-20-0000Jun 20, 2017",
+      "eu": "000000002017-06-21-0000Jun 21, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Sport, Chess",
+    "developer": "Ripstone Games",
+    "publisher": "Ripstone Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cho Jigen Game Neptune Victory II Realize",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-08-24-0000Aug 24, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "RPG",
+    "developer": "Idea Factory",
+    "publisher": "Compile Heart",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Classroom Aquatic",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation",
+    "developer": "Sunken Places",
+    "publisher": "Sunken Places",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "ChromaGun",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person, puzzle",
+    "developer": "Pixel Maniacs",
+    "publisher": "Pixel Maniacs",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "City Avenger",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "000000002017-10-12-0000Oct 12, 2017"
+    },
+    "genre": "Shooter",
+    "developer": "Shanghai Chesstar Studios",
+    "publisher": "Shanghai Chesstar Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cocos: Shark Island",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "000000002017-04-07-0000Apr 7, 2017",
+      "jp": "Unreleased",
+      "asia": "000000002017-12-05-0000Dec 5, 2017"
+    },
+    "genre": "Interactive Experience",
+    "developer": "Alchemy VR",
+    "publisher": "Alchemy VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Code51:Mecha Arena",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-24-0000Apr 24, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action, shooter",
+    "developer": "Smellyriver Entertainment Technology",
+    "publisher": "Smellyriver Entertainment Technology",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cold Iron",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-30-0000Jan 30, 2018",
+      "eu": "000000002018-02-27-0000Feb 27, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Puzzle, shooter",
+    "developer": "Catch & Release",
+    "publisher": "Catch & Release",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "CoolPaintrVR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-08-0000May 8, 2018",
+      "eu": "000000002018-05-22-0000May 22, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Adventure",
+    "developer": "Wildbit Studios",
+    "publisher": "Singular People",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cosmonaut",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Space Simulation",
+    "developer": "Ground Control Studios",
+    "publisher": "Ground Control Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cranga!: Harbor Frenzy",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Puzzle",
+    "developer": "HandMade Game",
+    "publisher": "HandMade Game",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Crisis on the Planet of the Apes",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-03-0000Apr 3, 2018",
+      "eu": "000000002018-04-03-0000Apr 3, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Advanced Visual Entertainment",
+    "publisher": "20th Century Fox Film Corporation",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Croixleur Sigma",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002017-04-29-0000Apr 29, 2017",
+      "asia": "TBA"
+    },
+    "genre": "Hack 'n Slash",
+    "developer": "Playism",
+    "publisher": "Playism",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Crystal Rift",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-29-0000Nov 29, 2016",
+      "eu": "000000002016-11-29-0000Nov 29, 2016",
+      "jp": "000000002017-06-30-0000Jun 30, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Psytec Games",
+    "publisher": "Psytec Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ctrl",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002017-06-23-0000Jun 23, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Interactive Movie",
+    "developer": "Breaking Fourth",
+    "publisher": "Breaking Fourth",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "CubeWorks",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-13-0000Feb 13, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Puzzle",
+    "developer": "TinMoon Studios",
+    "publisher": "TinMoon Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Cyber Danganronpa VR: The Class Trial",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-07-0000Mar 7, 2017",
+      "eu": "000000002017-03-10-0000Mar 10, 2017",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Spike Chunsoft",
+    "publisher": "Spike Chunsoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dark Legion",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002018-06-15-0000Jun 15, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Shooter",
+    "developer": "Ice World Ltd.",
+    "publisher": "Ice World Ltd.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Darknet",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-07-0000Mar 7, 2017",
+      "eu": "000000002017-03-07-0000Mar 7, 2017",
+      "jp": "000000002017-03-30-0000Mar 30, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Puzzle",
+    "developer": "Archiact Int.",
+    "publisher": "Archiact Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "David Attenborough's First Life VR",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "000000002017-04-07-0000Apr 7, 2017",
+      "jp": "Unreleased",
+      "asia": "000000002017-12-06-0000Dec 6, 2017"
+    },
+    "genre": "Interactive Experience",
+    "developer": "Alchemy VR",
+    "publisher": "Alchemy VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dead or Alive Xtreme 3",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-01-24-0000Jan 24, 2017",
+      "asia": "000000002017-08-03-0000Aug 3, 2017"
+    },
+    "genre": "Sports, Dating-Sim",
+    "developer": "Koei Tecmo",
+    "publisher": "Koei Tecmo",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dead Secret",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-24-0000Apr 24, 2018",
+      "eu": "000000002018-04-24-0000Apr 24, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Horror",
+    "developer": "Robot Invader",
+    "publisher": "Robot Invader",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dexed",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-01-31-0000Jan 31, 2017",
+      "eu": "000000002017-02-01-0000Feb 1, 2017",
+      "jp": "000000002017-02-22-0000Feb 22, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Action",
+    "developer": "Ninja Theory",
+    "publisher": "Ninja Theory",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Digital Domain's Monkey King",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "000000002017-07-25-0000Jul 25, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive Movie",
+    "developer": "Digital Domain Interactive",
+    "publisher": "Digital Domain Interactive",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dick Wilde",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-16-0000May 16, 2017",
+      "eu": "000000002017-05-17-0000May 17, 2017",
+      "jp": "000000002017-11-30-0000Nov 30, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "First-person",
+    "developer": "Bolverk Games",
+    "publisher": "PlayStack",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dimension Hunter",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person, arcade",
+    "developer": "Pocket Money Games",
+    "publisher": "Pocket Money Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dino Frontier",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-01-0000Aug 1, 2017",
+      "eu": "000000002017-08-01-0000Aug 1, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Uber Ent.",
+    "publisher": "Uber Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dirt Rally",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-02-21-0000Feb 21, 2017",
+      "eu": "000000002017-02-21-0000Feb 21, 2017",
+      "jp": "000000002017-02-21-0000Feb 21, 2017",
+      "asia": "000000002017-03-15-0000Mar 15, 2017"
+    },
+    "genre": "Racing",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Discovery",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-11-07-0000Nov 7, 2017",
+      "eu": "000000002017-11-22-0000Nov 22, 2017",
+      "jp": "000000002017-11-16-0000Nov 16, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Noowanda",
+    "publisher": "Noowanda",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Distance",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Racing",
+    "developer": "Refract Studios",
+    "publisher": "Refract Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Don't Knock Twice",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-05-0000Sep 5, 2017",
+      "eu": "000000002017-09-05-0000Sep 5, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Horror",
+    "developer": "Wales Interactive",
+    "publisher": "Wales Interactive",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Doom VFR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-01-0000Dec 1, 2017",
+      "eu": "000000002017-12-01-0000Dec 1, 2017",
+      "jp": "000000002017-12-21-0000Dec 21, 2017",
+      "asia": "000000002017-12-01-0000Dec 1, 2017"
+    },
+    "genre": "First-person shooter",
+    "developer": "Bethesda",
+    "publisher": "Bethesda",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dreamworks Voltron VR Chronicles",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-26-0000Sep 26, 2017",
+      "eu": "000000002017-10-03-0000Oct 3, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, Puzzle, Adventure",
+    "developer": "Digital Domain Interactive",
+    "publisher": "Digital Domain Interactive",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dream Angling",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-27-0000Apr 27, 2018",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "000000002017-07-25-0000Jul 25, 2017"
+    },
+    "genre": "Fishing",
+    "developer": "BLUCK",
+    "publisher": "BLUCK",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dreams",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Adventure",
+    "developer": "Media Molecule",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Driveclub VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Racing",
+    "developer": "Evolution Studios",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Drunkn Bar Fight",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-13-0000Feb 13, 2018",
+      "eu": "000000002018-03-06-0000Mar 6, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "The Munky",
+    "publisher": "The Munky",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "DWVR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-26-0000Sep 26, 2017",
+      "eu": "000000002017-11-23-0000Nov 23, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, Arcade, First Person Shooter",
+    "developer": "Mad Triangles",
+    "publisher": "Mad Triangles",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dying: Reborn",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-02-28-0000Feb 28, 2017",
+      "eu": "000000002017-02-28-0000Feb 28, 2017",
+      "jp": "000000002017-05-25-0000May 25, 2017",
+      "asia": "000000002017-03-16-0000Mar 16, 2017"
+    },
+    "genre": "Horror, Puzzle",
+    "developer": "Oasis Games",
+    "publisher": "Oasis Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Eagle Flight",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-08-0000Nov 8, 2016",
+      "eu": "000000002016-11-08-0000Nov 8, 2016",
+      "jp": "000000002016-11-09-0000Nov 9, 2016",
+      "asia": "000000002016-11-09-0000Nov 9, 2016"
+    },
+    "genre": "Flight Combat",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Earthlight",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Interactive Experience",
+    "developer": "Opaque Media",
+    "publisher": "Opaque Media",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Eclipse",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "FPS Adventure",
+    "developer": "White Elk Studios",
+    "publisher": "White Elk Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Eden Tomorrow",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Action-Adventure",
+    "developer": "Soulpix",
+    "publisher": "Soulpix",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "End Space",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-19-0000Sep 19, 2017",
+      "eu": "000000002017-11-07-0000Nov 7, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation, Space, Combat",
+    "developer": "Orange Bridge Studios",
+    "publisher": "Orange Bridge Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "End of the Beginning",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Snaketakes Studios",
+    "publisher": "Snaketakes Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-11-17-0000Nov 17, 2017",
+      "eu": "000000002017-11-17-0000Nov 17, 2017",
+      "jp": "000000002017-12-14-0000Dec 14, 2017",
+      "asia": "000000002017-11-24-0000Nov 24, 2017"
+    },
+    "genre": "Action, RPG",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Everest VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-03-0000Oct 3, 2017",
+      "eu": "000000002017-10-04-0000Oct 4, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Sólfar Studios",
+    "publisher": "Sólfar Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Eve: Gunjack",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Space Shooter",
+    "developer": "CCP Games",
+    "publisher": "CCP Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Eve: Valkyrie",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "Unreleased"
+    },
+    "genre": "Space Shooter",
+    "developer": "CCP Games",
+    "publisher": "CCP Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Fantastic Contraption",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-11-0000Jul 11, 2017",
+      "eu": "000000002017-07-11-0000Jul 11, 2017",
+      "jp": "000000002017-07-13-0000Jul 13, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Puzzle",
+    "developer": "Northway Games",
+    "publisher": "Radial Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Farpoint",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-16-0000May 16, 2017",
+      "eu": "000000002017-05-17-0000May 17, 2017",
+      "jp": "000000002017-06-22-0000Jun 22, 2017",
+      "asia": "000000002017-05-16-0000May 16, 2017"
+    },
+    "genre": "FPS",
+    "developer": "Impulse Gear",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Fat City VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-15-0000Dec 15, 2016",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Puzzle",
+    "developer": "Heavy Iron Studios",
+    "publisher": "Heavy Iron Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Fated: The Silent Oath",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-28-0000Mar 28, 2017",
+      "eu": "000000002017-03-28-0000Mar 28, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action-Adventure",
+    "developer": "Frima Studio",
+    "publisher": "Frima Studio",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Filthy Lucre",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-09-16-0000Sep 16, 2016",
+      "eu": "000000002016-09-16-0000Sep 16, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, Stealth",
+    "developer": "Fabrik Games",
+    "publisher": "Fabrik Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Final Approach: Pilot Edition",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation",
+    "developer": "Phaser Lock Int.",
+    "publisher": "Phaser Lock Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Firewall: Zero Hour",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Tactical first-person shooter",
+    "developer": "First Contact Ent.",
+    "publisher": "First Contact Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Fishing Master",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-24-0000Oct 24, 2017",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "000000002017-11-28-0000Nov 28, 2017"
+    },
+    "genre": "Sports",
+    "developer": "Snowball Games",
+    "publisher": "Snowball Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "First Impact: Rise of a Hero",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person, action, RPG",
+    "developer": "Red Meat Games",
+    "publisher": "Red Meat Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Flipy's Tesla! Let's invent the future! Episode 1",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-11-0000Jan 11, 2018",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Mediaproduccion S.L.",
+    "publisher": "Mediaproduccion S.L.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Floor Plan",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-20-0000Mar 20, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Puzzle",
+    "developer": "Turbo Button",
+    "publisher": "Turbo Button",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Fly To Kuma",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "COLOPL",
+    "publisher": "COLOPL",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Football Nation VR Tournament 2018",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002018-06-07-0000Jun 7, 2018",
+      "jp": "000000002018-06-07-0000Jun 7, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "Cherry Pop Games",
+    "publisher": "Cherry Pop Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Form",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Puzzle",
+    "developer": "Charm Games",
+    "publisher": "Charm Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Fruit Ninja VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-20-0000Dec 20, 2016",
+      "eu": "000000002016-12-20-0000Dec 20, 2016",
+      "jp": "000000002017-03-31-0000Mar 31, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, Arcade",
+    "developer": "Halfbrick Studios",
+    "publisher": "Halfbrick Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Futuridium VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Shooter",
+    "developer": "MixedBag Games",
+    "publisher": "MixedBag Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Gallery",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure",
+    "developer": "Cloudhead Games",
+    "publisher": "Cloudhead Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Gang Beasts",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Party",
+    "developer": "Boneloaf Games",
+    "publisher": "Double Fine Presents",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Get Even",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "FPS",
+    "developer": "The Farm 51",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ghost Theory",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Horror",
+    "developer": "Dreadlocks Ltd",
+    "publisher": "Dreadlocks Ltd",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ghostbusters is Hiring: Firehouse",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-21-0000Mar 21, 2017",
+      "eu": "000000002018-05-02-0000May 2, 2018",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action",
+    "developer": "Sony Pictures Virtual Reality",
+    "publisher": "Sony Pictures",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ghostbusters is Hiring: Showdown",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-09-0000Jan 9, 2018",
+      "eu": "000000002018-05-02-0000May 2, 2018",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action",
+    "developer": "Sony Pictures Virtual Reality",
+    "publisher": "Sony Pictures",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ghosts In The Toybox: Chapter 1",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-11-06-0000Nov 6, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Shooter",
+    "developer": "View Point Games",
+    "publisher": "View Point Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "GNOG",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-02-0000May 2, 2017",
+      "eu": "000000002017-05-02-0000May 2, 2017",
+      "jp": "000000002017-05-02-0000May 2, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Puzzle",
+    "developer": "KO_OP",
+    "publisher": "Double Fine Presents",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Godling",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation",
+    "developer": "Solfar Studios",
+    "publisher": "Solfar Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Golem",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-13-0000Mar 13, 2018",
+      "eu": "000000002018-03-13-0000Mar 13, 2018",
+      "jp": "000000002018-03-13-0000Mar 13, 2018",
+      "asia": "000000002018-03-13-0000Mar 13, 2018"
+    },
+    "genre": "Adventure",
+    "developer": "Highwire Games",
+    "publisher": "Highwire Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Gran Turismo Sport",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-17-0000Oct 17, 2017",
+      "eu": "000000002017-10-18-0000Oct 18, 2017",
+      "jp": "000000002017-10-19-0000Oct 19, 2017",
+      "asia": "000000002017-10-17-0000Oct 17, 2017"
+    },
+    "genre": "Racing, simulation",
+    "developer": "Polyphony Digital",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Gungrave VR",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002017-12-14-0000Dec 14, 2017",
+      "asia": "000000002018-02-22-0000Feb 22, 2018"
+    },
+    "genre": "Action",
+    "developer": "Iggymob",
+    "publisher": "Iggymob",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "GunHeart",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person",
+    "developer": "Drifter Ent.",
+    "publisher": "Drifter Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Gunship Battle 2 VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Combat Flight Sim",
+    "developer": "Joycity Corp.",
+    "publisher": "Joycity Corp.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Happy Drummer",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-06-0000Feb 6, 2018",
+      "eu": "000000002018-03-19-0000Mar 19, 2018",
+      "jp": "000000002018-04-04-0000Apr 4, 2018",
+      "asia": "000000002017-12-21-0000Dec 21, 2017"
+    },
+    "genre": "Music",
+    "developer": "Lusionsoft",
+    "publisher": "Lusionsoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Happy Manager",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "Jan 11, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "Tamsoft",
+    "publisher": "D3 Publisher",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Harmonix Music VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Music, rhythm",
+    "developer": "Harmonix",
+    "publisher": "Harmonix",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Hatsune Miku: Project DIVA X",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-08-30-0000Aug 30, 2016",
+      "eu": "000000002016-08-30-0000Aug 30, 2016",
+      "jp": "000000002016-08-25-0000Aug 25, 2016",
+      "asia": "000000002016-08-25-0000Aug 25, 2016"
+    },
+    "genre": "Rhythm",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Headbutt Factory",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-02-17-0000Feb 17, 2017",
+      "asia": "000000002017-03-01-0000Mar 1, 2017"
+    },
+    "genre": "Action, puzzle",
+    "developer": "Gemdrops, Inc",
+    "publisher": "Gemdrops, Inc",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Headmaster",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, sports",
+    "developer": "Frame Interactive",
+    "publisher": "Frame Interactive",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Heroes of The Seven Seas",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-25-0000Jul 25, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "First-person",
+    "developer": "Mirage Int.",
+    "publisher": "Time of Virtual Reality",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Hellgate VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Action, RPG",
+    "developer": "Skonec Ent.",
+    "publisher": "HanbitSoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Henry the Hamster Handler",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Puzzle",
+    "developer": "Pocket Money Games",
+    "publisher": "Pocket Money Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Here They Lie",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Horror",
+    "developer": "Tangentlemen",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "HeroCade",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-18-0000Apr 18, 2017",
+      "eu": "000000002017-09-26-0000Sep 26, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive experience",
+    "developer": "Lucid Sight",
+    "publisher": "Lucid Sight",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Hex Tunnel",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-27-0000Feb 27, 2018",
+      "eu": "000000002018-03-06-0000Mar 6, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Indie",
+    "developer": "Owlgorithm",
+    "publisher": "Owlgorithm",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "HoloBall",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-22-0000Nov 22, 2016",
+      "eu": "000000002016-11-29-0000Nov 29, 2016",
+      "jp": "000000002017-03-02-0000Mar 2, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports, Arcade",
+    "developer": "TreeFortress Games",
+    "publisher": "TreeFortress Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Holodance",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Music, rhythm",
+    "developer": "narayana games",
+    "publisher": "narayana games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Homestar VR",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002017-12-20-0000Dec 20, 2017",
+      "asia": "TBA"
+    },
+    "genre": "",
+    "developer": "pocket Ohira Tech",
+    "publisher": "pocket Ohira Tech",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Honkowa Presents: Nogizaka46 VR Horror House",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-07-03-0000Jul 3, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Horror",
+    "developer": "Sony Interactive Ent.",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Honor and Duty: Arcade Edition",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-28-0000Mar 28, 2018",
+      "eu": "000000002018-03-28-0000Mar 28, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Strange Games Studios",
+    "publisher": "Strange Games Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "How We Soar",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-29-0000Nov 29, 2016",
+      "eu": "000000002016-11-29-0000Nov 29, 2016",
+      "jp": "000000002017-03-03-0000Mar 3, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Flight, Adventure",
+    "developer": "Penny Black Studios",
+    "publisher": "Penny Black Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Hum: Abductions",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Horror, sci-fi",
+    "developer": "Totwise Studios",
+    "publisher": "Totwise Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Hustle Kings VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "EPOS Game Studios",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Hyper Void: VR Levels",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-01-0000Nov 1, 2016",
+      "eu": "000000002016-10-27-0000Oct 27, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Space shooter",
+    "developer": "InFramez Technology",
+    "publisher": "InFramez Technology",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Idolmaster Cinderella Girls",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-18-0000Jul 18, 2017",
+      "eu": "000000002017-07-19-0000Jul 19, 2017",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002017-04-21-0000Apr 21, 2017"
+    },
+    "genre": "Simulation",
+    "developer": "Bandai Namco Ent.",
+    "publisher": "Bandai Namco Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "I Expect You To Die",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-13-0000Dec 13, 2016",
+      "eu": "000000002017-04-04-0000Apr 4, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, puzzle",
+    "developer": "Schell Games",
+    "publisher": "Schell Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Infinite Minigolf",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-25-0000Jul 25, 2017",
+      "eu": "000000002017-07-25-0000Jul 25, 2017",
+      "jp": "000000002017-08-10-0000Aug 10, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "Zen Studios",
+    "publisher": "Zen Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Inpatient",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-23-0000Jan 23, 2018",
+      "eu": "000000002018-01-24-0000Jan 24, 2018",
+      "jp": "TBA",
+      "asia": "000000002018-01-24-0000Jan 24, 2018"
+    },
+    "genre": "Survival horror",
+    "developer": "Supermassive Games",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Invisible Hours",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-10-0000Oct 10, 2017",
+      "eu": "000000002017-10-17-0000Oct 17, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "First-person, mystery",
+    "developer": "Tequila Works",
+    "publisher": "GameTrust",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "iO Moon",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure",
+    "developer": "Headtrip Games",
+    "publisher": "Headtrip Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Island Time VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-03-0000Apr 3, 2018",
+      "eu": "000000002018-04-03-0000Apr 3, 2018",
+      "jp": "000000002018-04-10-0000Apr 10, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Arcade",
+    "developer": "Flight School Studio",
+    "publisher": "Project Flight School Inc",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "JAPAN Studio VR MUSIC Festival",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-20-0000Sep 20, 2017",
+      "asia": "000000002017-09-20-0000Sep 20, 2017"
+    },
+    "genre": "Music",
+    "developer": "Aimvillage",
+    "publisher": "Aimvillage",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Job Simulator",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-12-15-0000Dec 15, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Simulation",
+    "developer": "Owlchemy Labs",
+    "publisher": "Owlchemy Labs",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Just In Time Incorporated",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-24-0000Apr 24, 2018",
+      "eu": "000000002018-04-24-0000Apr 24, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Second Wind Interactive 2018",
+    "publisher": "Second Wind Interactive 2018",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Justice League VR: The Complete Experience",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-05-0000Dec 5, 2017",
+      "eu": "000000002017-12-05-0000Dec 5, 2017",
+      "jp": "000000002017-12-05-0000Dec 5, 2017",
+      "asia": "000000002017-12-06-0000Dec 6, 2017"
+    },
+    "genre": "Action",
+    "developer": "Warner Bros. Int.",
+    "publisher": "Warner Bros. Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kai-ri-Sei Million Arthur VR",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-28-0000Sep 28, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "RPG",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kaiji VR: Steel Beam Crossing of Despair",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-08-08-0000Aug 8, 2017",
+      "asia": "000000002018-01-11-0000Jan 11, 2018"
+    },
+    "genre": "Simulation",
+    "developer": "Solid Sphere",
+    "publisher": "Solid Sphere",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Keep Talking and Nobody Explodes",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Puzzle",
+    "developer": "Steel Crate Games",
+    "publisher": "Steel Crate Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kerser",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Racing",
+    "developer": "IRIS VR",
+    "publisher": "IRIS VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Killing Floor: Incursion",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-01-0000May 1, 2018",
+      "eu": "000000002018-05-01-0000May 1, 2018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Tripwire Int.",
+    "publisher": "Tripwire Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kismet",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Interactive Puzzle",
+    "developer": "Psyop",
+    "publisher": "Psyop",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Knockout League",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-13-0000Feb 13, 2018",
+      "eu": "000000002018-03-08-0000Mar 8, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "Grab Games",
+    "publisher": "Grab Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kittypocalypse",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Tower Defense",
+    "developer": "Bolvërk Games",
+    "publisher": "Bolvërk Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Konrad the Kitten",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-23-0000Feb 23, 2018",
+      "eu": "000000002018-02-23-0000Feb 23, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "FusionPlay",
+    "publisher": "FusionPlay",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Korix",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-28-0000Mar 28, 2017",
+      "eu": "000000002017-03-28-0000Mar 28, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Real-Time strategy",
+    "developer": "StellarVR",
+    "publisher": "StellarVR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kowloon's Gate VR",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-10-26-0000Oct 26, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Jetman",
+    "publisher": "Jetman",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Last Guardian VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Action, adventure",
+    "developer": "Sony Interactive Ent.",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "League of War: VR Arena",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-11-07-0000Nov 7, 2017",
+      "eu": "000000002017-11-07-0000Nov 7, 2017",
+      "jp": "000000002017-11-07-0000Nov 7, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, arcade, RTS",
+    "developer": "MunkyFun Inc.",
+    "publisher": "MunkyFun Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Leave the Nest",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-14-0000Mar 14, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, party",
+    "developer": "Kaio Int.",
+    "publisher": "Kaio Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Lethal VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-20-0000Dec 20, 2016",
+      "eu": "000000002016-12-20-0000Dec 20, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Shooter",
+    "developer": "Three Fields Ent.",
+    "publisher": "Team17",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Light Tracer",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-26-0000Sep 26, 2017",
+      "eu": "000000002017-09-27-0000Sep 27, 2017",
+      "jp": "000000002017-10-19-0000Oct 19, 2017",
+      "asia": "000000002017-09-28-0000Sep 28, 2017"
+    },
+    "genre": "Adventure",
+    "developer": "Oasis games",
+    "publisher": "Oasis games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Loading Human",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Untold Games",
+    "publisher": "Maximum Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Lost Bear",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-05-0000Sep 5, 2017",
+      "eu": "000000002017-09-07-0000Sep 7, 2017",
+      "jp": "000000002017-09-05-0000Sep 5, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "2D, platform",
+    "developer": "Odd Bug Studio",
+    "publisher": "Fabrik Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Lunar Stone Origin of Blood",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-21-0000Mar 21, 2018",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "000000002017-12-12-0000Dec 12, 2017"
+    },
+    "genre": "Shooter",
+    "developer": "Zenox Studio",
+    "publisher": "GQJoy",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Manifest 99",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-12-0000Sep 12, 2017",
+      "eu": "000000002017-12-19-0000Dec 19, 2017",
+      "jp": "000000002018-03-12-0000Mar 12, 2018",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive experience",
+    "developer": "Flight School Studio",
+    "publisher": "Project Flight School",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "ManMade Episode 1: Magnolia",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Action-Adventure",
+    "developer": "CBILAB VR STUDIOS",
+    "publisher": "CBILAB VR STUDIOS",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Martian: VR Experience",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-15-0000Nov 15, 2016",
+      "eu": "000000002016-11-15-0000Nov 15, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-12-14-0000Dec 14, 2016"
+    },
+    "genre": "Interactive experience",
+    "developer": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Mars 2030 Experience",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation",
+    "developer": "NASA / Fusion Media",
+    "publisher": "NASA / Fusion Media",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Megadimension Neptune VIIR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-08-0000May 8, 2018",
+      "eu": "000000002018-05-11-0000May 11, 2018",
+      "jp": "000000002017-08-24-0000Aug 24, 2017",
+      "asia": "000000002017-08-24-0000Aug 24, 2017"
+    },
+    "genre": "RPG",
+    "developer": "Compile Heart",
+    "publisher": "Idea Factory",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Megalith",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Action, shooter",
+    "developer": "Disruptive Games",
+    "publisher": "Disruptive Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Megaton Rainfall",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-17-0000Oct 17, 2017",
+      "eu": "000000002017-10-17-0000Oct 17, 2017",
+      "jp": "000000002017-10-17-0000Oct 17, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Action-adventure",
+    "developer": "Alfonso del Cerro",
+    "publisher": "Pentadimensional",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Mervils: A VR Adventure",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-02-21-0000Feb 21, 2017",
+      "eu": "000000002017-02-21-0000Feb 21, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Vitruvius Technologies Inc.",
+    "publisher": "Vitruvius Technologies Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Mind: Path to Thalamus",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure",
+    "developer": "Carlos Coronado",
+    "publisher": "Carlos Coronado",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Mixip",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Arcade",
+    "developer": "Oasis Games",
+    "publisher": "Oasis Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "MLB Home Run Derby VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-26-0000Apr 26, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "MLB Advanced Media",
+    "publisher": "MLB Advanced Media",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Monster of the Deep: Final Fantasy XV",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-11-21-0000Nov 21, 2017",
+      "eu": "000000002017-11-21-0000Nov 21, 2017",
+      "jp": "000000002017-11-21-0000Nov 21, 2017",
+      "asia": "000000002017-11-21-0000Nov 21, 2017"
+    },
+    "genre": "Simulation",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Moonshot Galaxy",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-09-0000May 9, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports, puzzle",
+    "developer": "Liftoff Labs",
+    "publisher": "Big Fish Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Moss",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-26-0000Feb 26, 2018",
+      "eu": "000000002018-02-27-0000Feb 27, 2018",
+      "jp": "000000002018-02-27-0000Feb 27, 2018",
+      "asia": "000000002018-02-27-0000Feb 27, 2018"
+    },
+    "genre": "Adventure, puzzle",
+    "developer": "Polyarc Games",
+    "publisher": "Polyarc Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Moto Racer 4",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-01-24-0000Jan 24, 2017",
+      "eu": "000000002016-11-03-0000Nov 3, 2016",
+      "jp": "000000002017-12-01-0000Dec 1, 2017",
+      "asia": "000000002016-11-04-0000Nov 4, 2016"
+    },
+    "genre": "Racing",
+    "developer": "Artefacts Studio",
+    "publisher": "Microids",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Modern Zombie Taxi Co.",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation",
+    "developer": "Vitei Backroom",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Mortal Blitz VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-04-0000Apr 4, 2017",
+      "eu": "000000002017-04-04-0000Apr 4, 2017",
+      "jp": "000000002017-04-26-0000Apr 26, 2017",
+      "asia": "000000002017-04-04-0000Apr 4, 2017"
+    },
+    "genre": "FPS",
+    "developer": "Skonec Ent.",
+    "publisher": "Skonec Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Music Room",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Music",
+    "developer": "Chroma Coda",
+    "publisher": "Chroma Coda",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "NBA 2K: VR Experience",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-22-0000Nov 22, 2016",
+      "eu": "000000002016-11-22-0000Nov 22, 2016",
+      "jp": "000000002016-12-20-0000Dec 20, 2016",
+      "asia": "000000002016-11-22-0000Nov 22, 2016"
+    },
+    "genre": "Interactive experience",
+    "developer": "2K Games",
+    "publisher": "2K Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Nebulous",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-08-30-0000Aug 30, 2016",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, puzzle",
+    "developer": "Namazu Studios",
+    "publisher": "Namazu Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Neko Atsume VR",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-05-31-0000May 31, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "Hit-Point",
+    "publisher": "Hit-Point",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Neptune Flux",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-08-0000Aug 8, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Zoxide Games",
+    "publisher": "Zoxide Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Nighttime Terror 2",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Shooter",
+    "developer": "VR Bits",
+    "publisher": "VR Bits",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "No Heroes Allowed! VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-17-0000Oct 17, 2017",
+      "eu": "000000002017-10-17-0000Oct 17, 2017",
+      "jp": "000000002017-10-14-0000Oct 14, 2017",
+      "asia": "000000002017-10-14-0000Oct 14, 2017"
+    },
+    "genre": "Shooter",
+    "developer": "Sony Interactive Ent.",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "O! My Genesis VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-04-0000Nov 4, 2016",
+      "eu": "000000002016-11-18-0000Nov 18, 2016",
+      "jp": "000000002016-11-04-0000Nov 4, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Simulation",
+    "developer": "XPEC Ent. / Bad Bird",
+    "publisher": "XPEC Ent. / Bad Bird",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Obduction",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-29-0000Aug 29, 2017",
+      "eu": "000000002017-08-29-0000Aug 29, 2017",
+      "jp": "TBA",
+      "asia": "000000002017-12-12-0000Dec 12, 2017"
+    },
+    "genre": "Adventure, puzzle",
+    "developer": "Cyan Worlds",
+    "publisher": "Cyan Worlds",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Occasional Encounter",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Interactive experience",
+    "developer": "UserJoy Technology",
+    "publisher": "UserJoy Technology",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "ONE PIECE Grand Cruise",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-22-0000May 22, 2018",
+      "eu": "000000002018-05-22-0000May 22, 2018",
+      "jp": "000000002018-05-24-0000May 24, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Interactive experience",
+    "developer": "BANDAI NAMCO ENTERTAINMENT",
+    "publisher": "BANDAI NAMCO ENTERTAINMENT",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Operation Warcade",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-11-0000Apr 11, 2018",
+      "eu": "000000002018-04-11-0000Apr 11, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Shooter",
+    "developer": "Ivanovich Games",
+    "publisher": "Ivanovich Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Out of Ammo",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-30-0000Jan 30, 2018",
+      "eu": "000000002018-01-30-0000Jan 30, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Zen Studios",
+    "publisher": "RocketWerks",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Omega Agent",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Action",
+    "developer": "Fireproof Games",
+    "publisher": "Fireproof Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Paranormal Activity: The Lost Soul",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-15-0000Aug 15, 2017",
+      "eu": "000000002017-08-16-0000Aug 16, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Horror",
+    "developer": "VRwerx",
+    "publisher": "VRwerx",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Passengers: Awakening",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-09-0000May 9, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive movie",
+    "developer": "Sony Pictures Virtual Reality",
+    "publisher": "Sony Pictures Virtual Reality",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Perfect",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-13-0000Dec 13, 2016",
+      "eu": "000000002016-12-20-0000Dec 20, 2016",
+      "jp": "000000002017-05-02-0000May 2, 2017",
+      "asia": "000000002017-04-04-0000Apr 4, 2017"
+    },
+    "genre": "Simulation",
+    "developer": "nDreams",
+    "publisher": "nDreams",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Perfect Sniper",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-29-0000May 29, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action, Shooter",
+    "developer": "SinnStudio",
+    "publisher": "SinnStudio",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Persona 3 Dancing Moon night",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-05-24-0000May 24, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Music, Rhythm",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Persona 4 Dancing all night",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-05-24-0000May 24, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Music, Rhythm",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Persona 5 Dancing Star Knight",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-05-24-0000May 24, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Music, Rhythm",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pervader VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Survival horror",
+    "developer": "Light & Digital",
+    "publisher": "Light & Digital",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Persistence",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-07-24-0000Jul 24, 2018",
+      "eu": "000000002018-07-24-0000Jul 24, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Horror, stealth",
+    "developer": "Firesprite",
+    "publisher": "Firesprite",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pierhead Arcade",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-30-0000Jan 30, 2018",
+      "eu": "000000002018-01-30-0000Jan 30, 2018",
+      "jp": "000000002018-01-30-0000Jan 30, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Pinball",
+    "developer": "Mechabit Ltd",
+    "publisher": "Mechabit Ltd",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pinball FX2 VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-29-0000Nov 29, 2016",
+      "eu": "000000002016-11-30-0000Nov 30, 2016",
+      "jp": "000000002017-12-12-0000Dec 12, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Pinball",
+    "developer": "Zen Studios",
+    "publisher": "Zen Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pirate Flight",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-01-0000May 1, 2018",
+      "eu": "000000002018-05-01-0000May 1, 2018",
+      "jp": "000000002018-05-01-0000May 1, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Arcade",
+    "developer": "Andreas von Lepel",
+    "publisher": "Andreas von Lepel",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pixel Gear",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-20-0000Oct 20, 2016",
+      "eu": "000000002016-10-20-0000Oct 20, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-21-0000Oct 21, 2016"
+    },
+    "genre": "Shooter",
+    "developer": "Oasis Games",
+    "publisher": "Oasis Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "PixelJunk VR™ Dead Hungry",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-31-0000Oct 31, 2017",
+      "eu": "000000002017-10-31-0000Oct 31, 2017",
+      "jp": "000000002017-10-25-0000Oct 25, 2017",
+      "asia": "000000002017-10-25-0000Oct 25, 2017"
+    },
+    "genre": "Action",
+    "developer": "Q-Games",
+    "publisher": "Q-Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pixel Ripped 1989",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation, Arcade",
+    "developer": "Pixel Ripped Inc.",
+    "publisher": "Pixel Ripped Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "PlayStation VR Worlds",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-10-0000Oct 10, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Interactive Experience",
+    "developer": "SIE London Studio",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pollen",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Sci-fi",
+    "developer": "Mindfield Games",
+    "publisher": "Mindfield Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Polybius",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-09-0000May 9, 2017",
+      "eu": "000000002017-05-10-0000May 10, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Arcade",
+    "developer": "Llamasoft",
+    "publisher": "Llamasoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pop-Up Pilgrims",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-13-0000Feb 13, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Arcade",
+    "developer": "Dakko Dakko",
+    "publisher": "Dakko Dakko",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Powerful pro baseball 2018",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-04-26-0000Apr 26, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Preta: Vendetta Rising",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-29-0000Mar 29, 2018",
+      "eu": "000000002018-03-28-0000Mar 28, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Illion Corp",
+    "publisher": "YJM GAMES",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Project Boundary",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person shooter",
+    "developer": "Surgical Scalpels",
+    "publisher": "Surgical Scalpels",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Proton Pulse Plus",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-22-0000Nov 22, 2016",
+      "eu": "000000002017-02-15-0000Feb 15, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Arcade",
+    "developer": "ZeroTransform Inc.",
+    "publisher": "ZeroTransform Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Psychonauts in the Rhombus of Ruin",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-02-21-0000Feb 21, 2017",
+      "eu": "000000002017-02-21-0000Feb 21, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Puzzle, platform",
+    "developer": "Double Fine Prod.",
+    "publisher": "Double Fine Prod.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pupil:Wandering",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "000000002018-01-18-0000Jan 18, 2018"
+    },
+    "genre": "Puzzle",
+    "developer": "Shanghai Oriental Pearl Culture Development",
+    "publisher": "Shanghai Oriental Pearl Culture Development",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Q.U.B.E. ²",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Puzzle",
+    "developer": "Toxic Games",
+    "publisher": "Toxic Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Quiz Night Tonight!",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-02-0000May 2, 2017",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Trivia",
+    "developer": "Mardonpol",
+    "publisher": "Mardonpol",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Rabbit Hole",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-12-0000Dec 12, 2017",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Adventure, puzzle",
+    "developer": "VRMonkey",
+    "publisher": "VRMonkey",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Race the sun",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-18-0000Apr 18, 2017",
+      "eu": "000000002017-04-18-0000Apr 18, 2017",
+      "jp": "000000002017-04-18-0000Apr 18, 2017",
+      "asia": "000000002017-04-18-0000Apr 18, 2017"
+    },
+    "genre": "Action, Arcade",
+    "developer": "Flippfly",
+    "publisher": "Flippfly",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Radial-G: Racing Revolved",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-12-0000Sep 12, 2017",
+      "eu": "000000002017-09-12-0000Sep 12, 2017",
+      "jp": "000000002017-09-12-0000Sep 12, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Racing",
+    "developer": "Tammeka Games",
+    "publisher": "Tammeka Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ranch Planet",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002018-06-15-0000Jun 15, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "AOGA TECH",
+    "publisher": "AOGA TECH",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rangi",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-06-0000Mar 6, 2018",
+      "eu": "000000002018-03-06-0000Mar 6, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Adventure",
+    "developer": "Funsoft",
+    "publisher": "Digigo",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Raw Data",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-10-0000Oct 10, 2017",
+      "eu": "000000002017-10-18-0000Oct 18, 2017",
+      "jp": "000000002017-10-11-0000Oct 11, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "First-person shooter",
+    "developer": "Survios",
+    "publisher": "Survios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Redemption's Guild",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Fantasy MORPG",
+    "developer": "Unlit Games",
+    "publisher": "Unlit Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Redout: Lightspeed edition",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Racing",
+    "developer": "34bigthings",
+    "publisher": "34bigthings",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Resident Evil 7: Biohazard",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-01-24-0000Jan 24, 2017",
+      "eu": "000000002017-01-24-0000Jan 24, 2017",
+      "jp": "000000002017-01-26-0000Jan 26, 2017",
+      "asia": "000000002017-01-24-0000Jan 24, 2017"
+    },
+    "genre": "Survival Horror",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Restless spirit",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-04-17-0000Apr 17, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive Movie",
+    "developer": "Wise",
+    "publisher": "Wise",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rez Infinite",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Rail shooter, music",
+    "developer": "Monstars",
+    "publisher": "Enhance Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rick and Morty: Virtual Rick-ality",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-24-0000Apr 24, 2018",
+      "eu": "000000002018-04-24-0000Apr 24, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Adventure",
+    "developer": "Owlchemy Labs",
+    "publisher": "Adult Swim Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "RIGS: Mechanized Combat League",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Sports Shooter",
+    "developer": "Guerrilla Cambridge",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rise of the Tomb Raider: Blood Ties",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-11-0000Oct 11, 2016",
+      "eu": "000000002016-10-11-0000Oct 11, 2016",
+      "jp": "000000002016-10-11-0000Oct 11, 2016",
+      "asia": "000000002016-10-11-0000Oct 11, 2016"
+    },
+    "genre": "Action-Adventure",
+    "developer": "Crystal Dynamics",
+    "publisher": "Square Enix",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Robinson: The Journey",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-08-0000Nov 8, 2016",
+      "eu": "000000002016-11-09-0000Nov 9, 2016",
+      "jp": "000000002016-11-30-0000Nov 30, 2016",
+      "asia": "Unreleased"
+    },
+    "genre": "Action-Adventure",
+    "developer": "Crytek",
+    "publisher": "Crytek",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "RollerCoaster Legends",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-21-0000Dec 21, 2017",
+      "eu": "000000002017-12-21-0000Dec 21, 2017",
+      "jp": "000000002018-02-09-0000Feb 9, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "Warducks",
+    "publisher": "Warducks",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "RollerCoaster Legends II: Thor's Hammer",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-05-0000Jan 5, 2018",
+      "eu": "000000002018-05-31-0000May 31, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "Warducks",
+    "publisher": "Warducks",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rollercoaster Dreams",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-20-0000Dec 20, 2016",
+      "eu": "000000002016-12-20-0000Dec 20, 2016",
+      "jp": "000000002017-03-16-0000Mar 16, 2017",
+      "asia": "000000002017-05-11-0000May 11, 2017"
+    },
+    "genre": "Simulation",
+    "developer": "Bimboosoft",
+    "publisher": "Bimboosoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "ROM: Extraction",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person shooter",
+    "developer": "First Contact Ent.",
+    "publisher": "First Contact Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rooms: The Usolvable Puzzle",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-03-23-0000Mar 23, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Puzzle",
+    "developer": "Handmade Game",
+    "publisher": "Handmade Game",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Run Dorothy Run",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-20-0000Feb 20, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Arcade",
+    "developer": "Virtro Entertainment",
+    "publisher": "Virtro Entertainment",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Sairento VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Mixed Realms",
+    "publisher": "Mixed Realms",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Seeking Dawn",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "First-person shooter",
+    "developer": "Multiverse",
+    "publisher": "Multiverse",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Shooty Fruity",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-19-0000Dec 19, 2017",
+      "eu": "000000002017-12-19-0000Dec 19, 2017",
+      "jp": "000000002017-12-26-0000Dec 26, 2017",
+      "asia": "000000002017-12-19-0000Dec 19, 2017"
+    },
+    "genre": "Action, shooter",
+    "developer": "nDreams",
+    "publisher": "nDreams",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Smashbox Arena",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-25-0000Jul 25, 2017",
+      "eu": "000000002017-07-25-0000Jul 25, 2017",
+      "jp": "000000002017-07-25-0000Jul 25, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Shooter",
+    "developer": "Archiact",
+    "publisher": "BigBox VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Sneaky Bears",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-29-0000Aug 29, 2017",
+      "eu": "000000002017-08-31-0000Aug 31, 2017",
+      "jp": "000000002017-12-08-0000Dec 8, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, Shooter",
+    "developer": "WarDucks",
+    "publisher": "WarDucks",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Snow",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Sports",
+    "developer": "Poppermost Productions",
+    "publisher": "Poppermost Productions",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Snow Fortress",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-06-0000Dec 6, 2017",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action, Shooter",
+    "developer": "Mythical City Games Inc.",
+    "publisher": "Mythical City Games Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Solus Project",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-18-0000Sep 18, 2017",
+      "eu": "000000002017-09-18-0000Sep 18, 2017",
+      "jp": "000000002017-09-18-0000Sep 18, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure, Survival",
+    "developer": "Hourences et Grip Games",
+    "publisher": "Teotl Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Soul Dimension",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-22-0000Aug 22, 2017",
+      "eu": "000000002017-08-22-0000Aug 22, 2017",
+      "jp": "000000002017-08-22-0000Aug 22, 2017",
+      "asia": "000000002017-08-23-0000Aug 23, 2017"
+    },
+    "genre": "Adventure, Puzzle, Horror",
+    "developer": "Keen Vision",
+    "publisher": "TVR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Space Rift",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-15-0000Nov 15, 2016",
+      "eu": "000000002016-11-15-0000Nov 15, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Space Adventure",
+    "developer": "bitComposer",
+    "publisher": "bitComposer",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Sparc",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-08-29-0000Aug 29, 2017",
+      "eu": "000000002017-08-29-0000Aug 29, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "CCP Games",
+    "publisher": "CCP Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Special Delivery",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-06-06-0000Jun 6, 2017",
+      "eu": "000000002017-10-20-0000Oct 20, 2017",
+      "jp": "000000002018-04-06-0000Apr 6, 2018",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "Meerkat Gaming",
+    "publisher": "Meerkat Gaming",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Special forces VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "first-person",
+    "developer": "VR Visio",
+    "publisher": "VR Visio",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Sports Bar VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "Cherry Pop Games",
+    "publisher": "Cherry Pop Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Sprint Vector",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-02-13-0000Feb 13, 2018",
+      "eu": "000000002018-02-13-0000Feb 13, 2018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Action, Course",
+    "developer": "Survios",
+    "publisher": "Survios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "StarBlood Arena",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-11-0000Apr 11, 2017",
+      "eu": "000000002017-04-12-0000Apr 12, 2017",
+      "jp": "000000002017-06-29-0000Jun 29, 2017",
+      "asia": "000000002017-05-26-0000May 26, 2017"
+    },
+    "genre": "Arena, Shooter",
+    "developer": "WhiteMoon Dreams",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "StarDrone",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-01-17-0000Jan 17, 2018",
+      "eu": "000000002018-01-24-0000Jan 24, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action, Arcade",
+    "developer": "Beatshapers",
+    "publisher": "Beatshapers",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Star Child",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "",
+    "developer": "Playful Corporation",
+    "publisher": "GameTrust",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Star Rage VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person shooter",
+    "developer": "Metaverse",
+    "publisher": "Metaverse",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Starship Disco",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-15-0000Dec 15, 2016",
+      "eu": "000000002016-12-21-0000Dec 21, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Rhythm, Shooter",
+    "developer": "Solus Games",
+    "publisher": "Solus Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Star Trek: Bridge Crew",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-05-30-0000May 30, 2017",
+      "eu": "000000002017-05-30-0000May 30, 2017",
+      "jp": "Unreleased",
+      "asia": "000000002017-05-31-0000May 31, 2017"
+    },
+    "genre": "Social, Adventure",
+    "developer": "Red Storm Ent.",
+    "publisher": "Ubisoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rogue One: X-Wing VR Mission",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-06-0000Dec 6, 2016",
+      "eu": "000000002016-12-06-0000Dec 6, 2016",
+      "jp": "000000002016-12-07-0000Dec 7, 2016",
+      "asia": "000000002016-12-07-0000Dec 7, 2016"
+    },
+    "genre": "Space Shooter",
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Statik",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-24-0000Apr 24, 2017",
+      "eu": "000000002017-04-24-0000Apr 24, 2017",
+      "jp": "Unreleased",
+      "asia": "000000002017-04-25-0000Apr 25, 2017"
+    },
+    "genre": "Puzzle",
+    "developer": "Tarsier Studios",
+    "publisher": "Tarsier Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Steel Combat",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-02-28-0000Feb 28, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Fighting",
+    "developer": "COLOPL",
+    "publisher": "COLOPL",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Stifled",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-31-0000Oct 31, 2017",
+      "eu": "000000002017-10-31-0000Oct 31, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Action, horror",
+    "developer": "Gattai Games",
+    "publisher": "Gattai Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Story of the Star Fragment: Single Fragment Version",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-01-26-0000Jan 26, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Adventure",
+    "developer": "ForgeVision",
+    "publisher": "Mediascape",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Stunt Kite Masters VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-25-0000Oct 25, 2017",
+      "eu": "000000002017-10-25-0000Oct 25, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "HandyGames",
+    "publisher": "HandyGames",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Super Amazeballs",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "TBA",
+      "jp": "000000002018-04-10-0000Apr 10, 2018",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Braincells Productions",
+    "publisher": "Braincells Productions",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Summer Lesson: Allison Snow",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-06-22-0000Jun 22, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Bandai Namco Ent.",
+    "publisher": "Bandai Namco Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Summer Lesson: Chisato Shinjo",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-10-12-0000Oct 12, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Bandai Namco Ent.",
+    "publisher": "Bandai Namco Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Summer Lesson: Hikari Miyamoto",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002017-04-27-0000Apr 27, 2017"
+    },
+    "genre": "Simulation",
+    "developer": "Bandai Namco Ent.",
+    "publisher": "Bandai Namco Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Superhot VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-21-0000Jul 21, 2017",
+      "eu": "000000002017-07-19-0000Jul 19, 2017",
+      "jp": "000000002017-07-21-0000Jul 21, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "First-person shooter",
+    "developer": "SUPERHOT Team",
+    "publisher": "SUPERHOT Team",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "SuperHyperCube",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Puzzle",
+    "developer": "Kokoromi",
+    "publisher": "Kokoromi",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Super Stardust Ultra VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-12-12-0000Dec 12, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Shooter",
+    "developer": "Sony XDev",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Surgeon Simulator: ER",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-03-0000Dec 3, 2016",
+      "eu": "000000002016-12-03-0000Dec 3, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Simulation",
+    "developer": "Bossa Studios",
+    "publisher": "Bossa Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Symphony of the Machine",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-25-0000Apr 25, 2017",
+      "eu": "000000002017-04-26-0000Apr 26, 2017",
+      "jp": "000000002017-04-28-0000Apr 28, 2017",
+      "asia": "000000002017-04-27-0000Apr 27, 2017"
+    },
+    "genre": "Puzzle",
+    "developer": "Stirfire Studios",
+    "publisher": "Stirfire Studios",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Syndrome",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-06-0000Oct 6, 2017",
+      "eu": "000000002017-10-11-0000Oct 11, 2017",
+      "jp": "000000002017-10-11-0000Oct 11, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "First-person, survival",
+    "developer": "Camel 101",
+    "publisher": "Bigmoon Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Synthesis Universe",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Rhythm",
+    "developer": "Olivier JT",
+    "publisher": "Olivier JT",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Syren",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Survival horror",
+    "developer": "Hammerhead VR",
+    "publisher": "Hammerhead VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Technolust Scanlines",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure",
+    "developer": "IRIS VR",
+    "publisher": "IRIS VR",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Tekken 7",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-06-02-0000Jun 2, 2017",
+      "eu": "000000002017-06-02-0000Jun 2, 2017",
+      "jp": "000000002017-06-01-0000Jun 1, 2017",
+      "asia": "000000002017-06-01-0000Jun 1, 2017"
+    },
+    "genre": "Fighting",
+    "developer": "Bandai Namco Ent.",
+    "publisher": "Bandai Namco Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Tethered",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-28-0000Oct 28, 2016",
+      "eu": "000000002016-10-28-0000Oct 28, 2016",
+      "jp": "000000002016-12-22-0000Dec 22, 2016",
+      "asia": "000000002016-10-26-0000Oct 26, 2016"
+    },
+    "genre": "Simulation",
+    "developer": "Secret Sorcery",
+    "publisher": "Secret Sorcery",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Theseus",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-26-0000Jul 26, 2017",
+      "eu": "000000002017-05-26-0000May 26, 2017",
+      "jp": "TBA",
+      "asia": "Unreleased"
+    },
+    "genre": "Action",
+    "developer": "Forge Reply",
+    "publisher": "Forge Reply",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Thumper",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Rhythm",
+    "developer": "Drool",
+    "publisher": "Drool",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Thunderbird",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure, puzzle",
+    "developer": "Innervision Games",
+    "publisher": "Innervision Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Time Carnage",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-04-10-0000Apr 10, 2018",
+      "eu": "000000002018-04-10-0000Apr 10, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Actiob",
+    "developer": "Wales Interactive Limited\\",
+    "publisher": "Wales Interactive Limited",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Time Machine VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-15-0000Nov 15, 2016",
+      "eu": "000000002016-11-18-0000Nov 18, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactive Experience",
+    "developer": "Minority Media",
+    "publisher": "Minority Media",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Tiny Trax",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-07-25-0000Jul 25, 2017",
+      "eu": "000000002017-07-25-0000Jul 25, 2017",
+      "jp": "000000002017-07-25-0000Jul 25, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Racing",
+    "developer": "FutureLab",
+    "publisher": "FutureLab",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Titanic VR",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Interactive Experience",
+    "developer": "Immersive VR Education Ltd.",
+    "publisher": "Immersive VR Education Ltd.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "To the top",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-29-0000May 29, 2018",
+      "eu": "000000002018-05-29-0000May 29, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action, Adventure",
+    "developer": "Electric Hat Games",
+    "publisher": "Electric Hat Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "TrackMania Turbo: VR Levels",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-11-08-0000Nov 8, 2016",
+      "eu": "000000002016-11-08-0000Nov 8, 2016",
+      "jp": "000000002016-11-08-0000Nov 8, 2016",
+      "asia": "000000002016-11-08-0000Nov 8, 2016"
+    },
+    "genre": "Racing",
+    "developer": "Nadeo",
+    "publisher": "Ubisoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Transference",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure, puzzle",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Touhou Kobuto V: Burst Battle",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-10-0000Oct 10, 2017",
+      "eu": "000000002017-10-13-0000Oct 13, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "Team Shanghai Alice ©Mediascape Co., Ltd. / CUBETYPE.",
+    "publisher": "NIS America Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Tumble VR",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-11-17-0000Nov 17, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Puzzle",
+    "developer": "Supermassive Games",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Until Dawn: Rush of Blood",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "000000002016-10-13-0000Oct 13, 2016",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Survival Horror",
+    "developer": "Supermassive Games",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Unearthed Inc. - The Lost Temple",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure, Puzzle",
+    "developer": "Glo Inc.",
+    "publisher": "Glo Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Unearthing Mars",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-03-07-0000Mar 7, 2017",
+      "eu": "000000002017-03-07-0000Mar 7, 2017",
+      "jp": "000000002017-03-07-0000Mar 7, 2017",
+      "asia": "000000002017-01-19-0000Jan 19, 2017"
+    },
+    "genre": "Interactive, Adventure",
+    "developer": "Winking Ent.",
+    "publisher": "Winking Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Up Up Girls 360",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-09-14-0000Sep 14, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Interactie movie",
+    "developer": "Monobit",
+    "publisher": "YU-M Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ultrawings",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-19-0000Dec 19, 2017",
+      "eu": "000000002017-12-19-0000Dec 19, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Flight, open world",
+    "developer": "Bit Planet Games",
+    "publisher": "Bit Planet Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Vacation Simulator",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-13-31-00002018",
+      "eu": "000000002018-13-31-00002018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Simulation",
+    "developer": "Owlchemy Labs",
+    "publisher": "Owlchemy Labs",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Vanguard V",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Action",
+    "developer": "Zero Transform",
+    "publisher": "Zero Transform",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Vector 36",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Racing",
+    "developer": "Red River Studio",
+    "publisher": "Red River Studio",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VEV: Viva Ex Vivo",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-05-17-0000May 17, 2016",
+      "eu": "000000002016-05-17-0000May 17, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Survival, Adventure",
+    "developer": "Truant Pixel",
+    "publisher": "Truant Pixel",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Virry VR: Feel the wild",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-04-0000Apr 4, 2017",
+      "eu": "000000002017-03-10-0000Mar 10, 2017",
+      "jp": "000000002018-02-20-0000Feb 20, 2018",
+      "asia": "000000002018-01-12-0000Jan 12, 2018"
+    },
+    "genre": "Interactive Experience",
+    "developer": "Fountain Digital Labs",
+    "publisher": "Fountain Digital Labs",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Virry VR: Wild Encounters",
+    "image": "",
+    "releaseDate": {
+      "na": "TBA",
+      "eu": "000000002018-04-09-0000Apr 9, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Interactive Experience",
+    "developer": "Fountain Digital Labs",
+    "publisher": "Fountain Digital Labs",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Visage",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Survival Horror",
+    "developer": "SadSquare Studio",
+    "publisher": "SadSquare Studio",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Virtual Orchestra (Premium)",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "000000002017-05-08-0000May 8, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Music",
+    "developer": "Sony Interactive Ent.",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VirtuGO",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-19-0000Dec 19, 2017",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Puzzle",
+    "developer": "Surreal Games",
+    "publisher": "Surreal Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VizionEck",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Shooter",
+    "developer": "VizionEck",
+    "publisher": "VizionEck",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Volume: Coda",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002017-06-28-0000Jun 28, 2017"
+    },
+    "genre": "Stealth, Puzzle",
+    "developer": "Mike Bithell Games",
+    "publisher": "Mike Bithell Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VR The Diner Duo",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-12-15-0000Dec 15, 2017",
+      "eu": "000000002017-12-18-0000Dec 18, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Simulation",
+    "developer": "Whirlybird Games",
+    "publisher": "Whirlybird Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VR Invaders - Complete Edition",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-04-18-0000Apr 18, 2017",
+      "eu": "000000002017-04-18-0000Apr 18, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "First-person",
+    "developer": "My.com",
+    "publisher": "My.com",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VR Karts",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-09-12-0000Sep 12, 2017",
+      "eu": "000000002017-05-11-0000May 11, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Arcade racing",
+    "developer": "View Point Games",
+    "publisher": "View Point Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VR Ping Pong",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-02-07-0000Feb 7, 2017",
+      "eu": "000000002017-02-08-0000Feb 8, 2017",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "Merge Games",
+    "publisher": "Merge Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VR Tennis Online",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "000000002017-02-16-0000Feb 16, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Sports",
+    "developer": "COLOPL",
+    "publisher": "COLOPL",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VRFC Virtual Reality Football Club",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-06-0000Mar 6, 2018",
+      "eu": "000000002018-03-06-0000Mar 6, 2018",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Sports",
+    "developer": "Cherry Pop Games",
+    "publisher": "Cherry Pop Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VRog",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002017-10-06-0000Oct 6, 2017",
+      "eu": "000000002017-07-31-0000Jul 31, 2017",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action",
+    "developer": "ByteRockers' Games GmbH & Co. KG",
+    "publisher": "ByteRockers' Games GmbH & Co. KG",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Wacky Wings",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Flying, arcade",
+    "developer": "Pocket Money Games",
+    "publisher": "Pocket Money Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Waddle Home",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-13-0000Oct 13, 2016",
+      "eu": "000000002016-10-13-0000Oct 13, 2016",
+      "jp": "Unreleased",
+      "asia": "Unreleased"
+    },
+    "genre": "Puzzle",
+    "developer": "Archiact Int.",
+    "publisher": "Archiact Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Waltz of the Wizard",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Interactive Experience",
+    "developer": "Aldin Dynamics",
+    "publisher": "Aldin Dynamics",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Wayward Sky",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-10-0000Oct 10, 2016",
+      "eu": "000000002016-10-10-0000Oct 10, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-10-13-0000Oct 13, 2016"
+    },
+    "genre": "Adventure, Puzzle",
+    "developer": "Uber Ent.",
+    "publisher": "Uber Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Weeping Doll",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-27-0000Oct 27, 2016",
+      "eu": "000000002016-10-27-0000Oct 27, 2016",
+      "jp": "Unreleased",
+      "asia": "000000002016-11-02-0000Nov 2, 2016"
+    },
+    "genre": "Horror",
+    "developer": "Oasis Games",
+    "publisher": "Oasis Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Werewolves Within",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-12-06-0000Dec 6, 2016",
+      "eu": "000000002016-12-06-0000Dec 6, 2016",
+      "jp": "000000002016-12-07-0000Dec 7, 2016",
+      "asia": "000000002016-12-07-0000Dec 7, 2016"
+    },
+    "genre": "Social",
+    "developer": "Red Storm Ent.",
+    "publisher": "Ubisoft",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": true, "vive": true },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "White Day: Swan Song",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Survival horror",
+    "developer": "ROI Games",
+    "publisher": "ROI Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Windlands",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002016-10-25-0000Oct 25, 2016",
+      "eu": "000000002016-10-25-0000Oct 25, 2016",
+      "jp": "000000002017-06-30-0000Jun 30, 2017",
+      "asia": "Unreleased"
+    },
+    "genre": "Adventure",
+    "developer": "Psytec Games",
+    "publisher": "Psytec Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Wipeout Omega Collection",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-03-28-0000Mar 28, 2018",
+      "eu": "000000002018-03-28-0000Mar 28, 2018",
+      "jp": "000000002018-13-31-00002018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Racing",
+    "developer": "Sony XDev Europe",
+    "publisher": "Sony Interactive Ent.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "World of Diving",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Simulation",
+    "developer": "Vertigo Games",
+    "publisher": "Vertigo Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Wraith",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-05-29-0000May 29, 2018",
+      "eu": "TBA",
+      "jp": "TBA",
+      "asia": "TBA"
+    },
+    "genre": "Action, Shooter, Survival, Horror",
+    "developer": "Sinn Studio Inc.",
+    "publisher": "Sinn Studio Inc.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The X Animal",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person shooter",
+    "developer": "Internet Stars",
+    "publisher": "Internet Stars",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Xing: The Land Beyond",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "Adventure, Puzzle",
+    "developer": "White Lotus Int.",
+    "publisher": "White Lotus Int.",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Xeta",
+    "image": "",
+    "releaseDate": {
+      "na": "Unreleased",
+      "eu": "Unreleased",
+      "jp": "Unreleased",
+      "asia": "000000002017-08-29-0000Aug 29, 2017"
+    },
+    "genre": "Shooter",
+    "developer": "Fevolution Innovation",
+    "publisher": "Fevolution Innovation",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": true },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Zero Killed",
+    "image": "",
+    "releaseDate": { "na": "TBA", "eu": "TBA", "jp": "TBA", "asia": "TBA" },
+    "genre": "First-person shooter",
+    "developer": "VR Visio Games",
+    "publisher": "VR Visio Games",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": true, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Zone of the Enders: The 2nd Runner MARS",
+    "image": "",
+    "releaseDate": {
+      "na": "000000002018-09-06-0000Sep 6, 2018",
+      "eu": "000000002018-09-06-0000Sep 6, 2018",
+      "jp": "000000002018-09-06-0000Sep 6, 2018",
+      "asia": "000000002018-13-31-00002018"
+    },
+    "genre": "Third Person Shooter",
+    "developer": "Cygames",
+    "publisher": "Konami",
+    "PSProEnhanced": false,
+    "controlTypes": { "aim": false, "dualshock": false, "move": false },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  }
+]
