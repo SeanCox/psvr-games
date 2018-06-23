@@ -31,11 +31,11 @@ export default class Example extends React.Component {
     return (
       <div>
         <Navbar color="primary" light expand="md" fixed="top">
-          <NavbarBrand href="/">PSVR Games</NavbarBrand>
+          <NavbarBrand href="/">PSVRgames.net</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
-              <NavItem>
+              {/* <NavItem>
                 <NavLink href="/components/">Components</NavLink>
               </NavItem>
               <NavItem>
@@ -53,7 +53,7 @@ export default class Example extends React.Component {
                   <DropdownItem divider />
                   <DropdownItem>Reset</DropdownItem>
                 </DropdownMenu>
-              </UncontrolledDropdown>
+              </UncontrolledDropdown> */}
             </Nav>
           </Collapse>
         </Navbar>

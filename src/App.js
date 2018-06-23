@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Container, Input, Button, Col } from "reactstrap";
+import { Container, Input, Button, Row, Col } from "reactstrap";
 import NavBar from "./components/NavBar";
 import GameCard from "./components/GameCard";
 import "./App.css";
@@ -39,24 +39,31 @@ class App extends Component {
       <div className="App">
         <NavBar />
         <Container style={{ marginTop: "100px" }}>
-          <Col xs="4">
-            <Input
-              value={this.state.searchTerm}
-              placeholder="Search"
-              onChange={e => this.updateSearchTerm(e.target.value)}
-            />
-          </Col>
-          <Col xs="1">
-            <Button color="primary" onClick={() => this.toggleMove()}>
-              Move
-            </Button>
-          </Col>
-          <Col xs="1">
-            <Button color="primary" onClick={() => this.toggleAim()}>
-              aim
-            </Button>
-          </Col>
-
+          <Row>
+            <Col xs="4">
+              <Input
+                value={this.state.searchTerm}
+                placeholder="Search"
+                onChange={e => this.updateSearchTerm(e.target.value)}
+              />
+            </Col>
+            <Col xs={{ size: 1, offset: 6 }}>
+              <Button
+                color={this.state.moveFilter ? "warning" : "primary"}
+                onClick={() => this.toggleMove()}
+              >
+                Move
+              </Button>
+            </Col>
+            <Col xs="1">
+              <Button
+                color={this.state.aimFilter ? "warning" : "primary"}
+                onClick={() => this.toggleAim()}
+              >
+                aim
+              </Button>
+            </Col>
+          </Row>
           {this.filterList()}
         </Container>
       </div>
