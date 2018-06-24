@@ -30,7 +30,9 @@ class App extends Component {
     if (this.state.aimFilter)
       gamelist = gamelist.filter(game => game.controlTypes.aim);
     return gamelist
-      .filter(game => game.title.toLowerCase().includes(this.state.searchTerm))
+      .filter(game =>
+        game.title.toLowerCase().includes(this.state.searchTerm.toLowerCase())
+      )
       .map(gameInfo => <GameCard key={gameInfo.title} {...gameInfo} />);
   }
 
