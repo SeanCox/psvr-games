@@ -18,13 +18,25 @@ export default class extends Component {
   toggle() {
     this.setState({ collapse: !this.state.collapse });
   }
+  getDeveloper = url => {
+    let toggle = false;
+    let count = 0;
+    let end = false;
 
-  formatDate(date) {
-    if (date === "TBA") return "TBA";
-    if (date === "Unreleased") return "Unreleased";
-    return format(parse(date.slice(8, 18)), "MM-DD-YYYY");
-  }
-
+    return url
+      .split("")
+      .slice(2, url.length - 1)
+      .map(char => {
+        if (count > 0 && end === false) toggle = true;
+        if (char === ">") count++;
+        if (char === "<") {
+          end = true;
+          toggle = false;
+        }
+        return toggle ? char : "";
+      })
+      .join("");
+  };
   render() {
     const game = this.props;
     return (
@@ -33,7 +45,7 @@ export default class extends Component {
           <Row>
             <Col xs={{ size: 4, order: 0 }} md="2">
               <img
-                src={img}
+                src={game.image || img}
                 style={{ height: "100px", width: "100px" }}
                 alt="game"
               />
@@ -45,8 +57,10 @@ export default class extends Component {
                 </Col>
               </Row>
               <Row>
-                <Col xs="12">Developer: {game.developer}</Col>
-                <Col xs="12">Publisher: {game.publisher}</Col>
+                <Col xs="12">
+                  Developer: {this.getDeveloper(game.developer)}
+                </Col>
+                {/* <Col xs="12">Publisher: {game.publisher}</Col> */}
               </Row>
               <Row>
                 <Col xs="12">genre: {game.genre}</Col>
@@ -74,18 +88,7 @@ export default class extends Component {
           <Collapse isOpen={this.state.collapse}>
             <Card>
               <CardBody>
-                <Row>
-                  NA Relase Date: {this.formatDate(game.releaseDate.na)}
-                </Row>
-                <Row>
-                  EU Relase Date: {this.formatDate(game.releaseDate.eu)}
-                </Row>
-                <Row>
-                  JP Relase Date: {this.formatDate(game.releaseDate.jp)}
-                </Row>
-                <Row>
-                  Asia Relase Date: {this.formatDate(game.releaseDate.asia)}
-                </Row>
+                <Row>Relase Date: {game.releaseDate}</Row>
               </CardBody>
             </Card>
           </Collapse>
