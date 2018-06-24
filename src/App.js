@@ -12,6 +12,7 @@ ReactGA.pageview(window.location.pathname);
 class App extends Component {
   state = {
     searchTerm: "",
+    dualshockFilter: false,
     moveFilter: false,
     aimFilter: false
   };
@@ -20,6 +21,9 @@ class App extends Component {
     this.setState({ searchTerm: term });
   }
 
+  toggleDualshock() {
+    this.setState({ dualshockFilter: !this.state.dualshockFilter });
+  }
   toggleMove() {
     this.setState({ moveFilter: !this.state.moveFilter });
   }
@@ -29,6 +33,8 @@ class App extends Component {
 
   filterList() {
     let gamelist = games;
+    if (this.state.dualshockFilter)
+      gamelist = gamelist.filter(game => game.controlTypes.dualshock);
     if (this.state.moveFilter)
       gamelist = gamelist.filter(game => game.controlTypes.move);
     if (this.state.aimFilter)
@@ -46,14 +52,22 @@ class App extends Component {
         <NavBar />
         <Container style={{ marginTop: "100px" }}>
           <Row>
-            <Col xs="6" md="4">
+            <Col xs="12" md="4">
               <Input
                 value={this.state.searchTerm}
                 placeholder="Search"
                 onChange={e => this.updateSearchTerm(e.target.value)}
               />
             </Col>
-            <Col xs="3" md={{ size: 1, offset: 6 }}>
+            <Col xs={{ size: 3, offset: 3 }} md={{ size: 1, offset: 5 }}>
+              <Button
+                color={this.state.dualshockFilter ? "warning" : "primary"}
+                onClick={() => this.toggleDualshock()}
+              >
+                DS4
+              </Button>
+            </Col>
+            <Col xs="3" md={{ size: 1, offset: 0 }}>
               <Button
                 color={this.state.moveFilter ? "warning" : "primary"}
                 onClick={() => this.toggleMove()}
@@ -66,7 +80,7 @@ class App extends Component {
                 color={this.state.aimFilter ? "warning" : "primary"}
                 onClick={() => this.toggleAim()}
               >
-                aim
+                Aim
               </Button>
             </Col>
           </Row>
