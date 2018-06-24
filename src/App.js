@@ -40,14 +40,14 @@ class App extends Component {
         <NavBar />
         <Container style={{ marginTop: "100px" }}>
           <Row>
-            <Col xs="4">
+            <Col xs="6" md="4">
               <Input
                 value={this.state.searchTerm}
                 placeholder="Search"
                 onChange={e => this.updateSearchTerm(e.target.value)}
               />
             </Col>
-            <Col xs={{ size: 1, offset: 6 }}>
+            <Col xs="3" md={{ size: 1, offset: 6 }}>
               <Button
                 color={this.state.moveFilter ? "warning" : "primary"}
                 onClick={() => this.toggleMove()}
@@ -55,7 +55,7 @@ class App extends Component {
                 Move
               </Button>
             </Col>
-            <Col xs="1">
+            <Col xs="3" md="1">
               <Button
                 color={this.state.aimFilter ? "warning" : "primary"}
                 onClick={() => this.toggleAim()}

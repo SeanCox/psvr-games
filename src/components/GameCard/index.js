@@ -31,30 +31,43 @@ export default class extends Component {
       <Card className="game-card" onClick={this.toggle}>
         <CardBody>
           <Row>
-            <Col xs="2">
+            <Col xs={{ size: 4, order: 0 }} md="2">
               <img
                 src={img}
                 style={{ height: "100px", width: "100px" }}
                 alt="game"
               />
             </Col>
-            <Col xs="8">
+            <Col md="8">
               <Row>
-                <h5>{game.title}</h5>
+                <Col xs="12" className="game-title">
+                  {game.title}
+                </Col>
               </Row>
               <Row>
-                {game.developer} - {game.publisher}
+                <Col xs="12">Developer: {game.developer}</Col>
+                <Col xs="12">Publisher: {game.publisher}</Col>
               </Row>
-              <Row>genre: {game.genre}</Row>
+              <Row>
+                <Col xs="12">genre: {game.genre}</Col>
+              </Row>
             </Col>
-            <Col xs="2">
+            <Col md="2">
               <Row>
-                <Col xs="4">{game.controlTypes.move ? <Move /> : ""}</Col>
-                <Col xs="4">{game.controlTypes.aim ? <Aim /> : ""}</Col>
+                <Col xs={{ size: 4, order: 1 }} md="4">
+                  {game.controlTypes.move ? <Move /> : ""}
+                </Col>
+                <Col xs={{ size: 4, order: 2 }} md="4">
+                  {game.controlTypes.aim ? <Aim /> : ""}
+                </Col>
               </Row>
               <Row>
-                <Col xs="4">{game.crossPlatform.vive ? <Vive /> : ""}</Col>
-                <Col xs="4">{game.crossPlatform.rift ? <Oculus /> : ""}</Col>
+                <Col xs={{ size: 4, order: 3 }} md="4">
+                  {game.crossPlatform.vive ? <Vive /> : ""}
+                </Col>
+                <Col xs={{ size: 4, order: 4 }} md="4">
+                  {game.crossPlatform.rift ? <Oculus /> : ""}
+                </Col>
               </Row>
             </Col>
           </Row>
