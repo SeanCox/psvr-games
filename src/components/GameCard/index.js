@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Collapse, Card, CardBody, Row, Col } from "reactstrap";
 import Aim from "../../shared/icons/Aim";
+import Dualshock from "../../shared/icons/Dualshock";
 import Move from "../../shared/icons/Move";
 import Vive from "../../shared/icons/Vive";
 import Oculus from "../../shared/icons/Oculus";
@@ -49,7 +50,7 @@ export default class extends Component {
                 alt="game"
               />
             </Col>
-            <Col md="8">
+            <Col md="7">
               <Row>
                 <Col xs="12" className="game-title">
                   {game.title}
@@ -65,8 +66,11 @@ export default class extends Component {
                 <Col xs="12">genre: {game.genre}</Col>
               </Row>
             </Col>
-            <Col md="2">
+            <Col md="3">
               <Row>
+                <Col xs={{ size: 4, order: 1 }} md="4">
+                  {game.controlTypes.dualshock ? <Dualshock /> : ""}
+                </Col>
                 <Col xs={{ size: 4, order: 1 }} md="4">
                   {game.controlTypes.move ? <Move /> : ""}
                 </Col>
