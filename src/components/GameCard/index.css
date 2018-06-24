@@ -5,3 +5,7 @@
 .game-card:hover {
   background-color: #2a9fd6;
 }
+
+.game-title {
+  font-size: 1.5em;
+}

@@ -18,61 +18,77 @@ export default class extends Component {
   toggle() {
     this.setState({ collapse: !this.state.collapse });
   }
+  getDeveloper = url => {
+    let toggle = false;
+    let count = 0;
+    let end = false;
 
-  formatDate(date) {
-    if (date === "TBA") return "TBA";
-    if (date === "Unreleased") return "Unreleased";
-    return format(parse(date.slice(8, 18)), "MM-DD-YYYY");
-  }
-
+    return url
+      .split("")
+      .slice(2, url.length - 1)
+      .map(char => {
+        if (count > 0 && end === false) toggle = true;
+        if (char === ">") count++;
+        if (char === "<") {
+          end = true;
+          toggle = false;
+        }
+        return toggle ? char : "";
+      })
+      .join("");
+  };
   render() {
     const game = this.props;
     return (
       <Card className="game-card" onClick={this.toggle}>
         <CardBody>
           <Row>
-            <Col xs="2">
+            <Col xs={{ size: 4, order: 0 }} md="2">
               <img
-                src={img}
+                src={game.image || img}
                 style={{ height: "100px", width: "100px" }}
                 alt="game"
               />
             </Col>
-            <Col xs="8">
+            <Col md="8">
               <Row>
-                <h5>{game.title}</h5>
+                <Col xs="12" className="game-title">
+                  {game.title}
+                </Col>
               </Row>
               <Row>
-                {game.developer} - {game.publisher}
+                <Col xs="12">
+                  Developer: {this.getDeveloper(game.developer)}
+                </Col>
+                {/* <Col xs="12">Publisher: {game.publisher}</Col> */}
               </Row>
-              <Row>genre: {game.genre}</Row>
+              <Row>
+                <Col xs="12">genre: {game.genre}</Col>
+              </Row>
             </Col>
-            <Col xs="2">
+            <Col md="2">
               <Row>
-                <Col xs="4">{game.controlTypes.move ? <Move /> : ""}</Col>
-                <Col xs="4">{game.controlTypes.aim ? <Aim /> : ""}</Col>
+                <Col xs={{ size: 4, order: 1 }} md="4">
+                  {game.controlTypes.move ? <Move /> : ""}
+                </Col>
+                <Col xs={{ size: 4, order: 2 }} md="4">
+                  {game.controlTypes.aim ? <Aim /> : ""}
+                </Col>
               </Row>
               <Row>
-                <Col xs="4">{game.crossPlatform.vive ? <Vive /> : ""}</Col>
-                <Col xs="4">{game.crossPlatform.rift ? <Oculus /> : ""}</Col>
+                <Col xs={{ size: 4, order: 3 }} md="4">
+                  {game.crossPlatform.vive ? <Vive /> : ""}
+                </Col>
+                <Col xs={{ size: 4, order: 4 }} md="4">
+                  {game.crossPlatform.rift ? <Oculus /> : ""}
+                </Col>
               </Row>
             </Col>
           </Row>
           <Collapse isOpen={this.state.collapse}>
             <Card>
               <CardBody>
-                <Row>
-                  NA Relase Date: {this.formatDate(game.releaseDate.na)}
-                </Row>
-                <Row>
-                  EU Relase Date: {this.formatDate(game.releaseDate.eu)}
-                </Row>
-                <Row>
-                  JP Relase Date: {this.formatDate(game.releaseDate.jp)}
-                </Row>
-                <Row>
-                  Asia Relase Date: {this.formatDate(game.releaseDate.asia)}
-                </Row>
+                <Row>Relase Date: {game.releaseDate}</Row>
               </CardBody>
             </Card>
           </Collapse>
