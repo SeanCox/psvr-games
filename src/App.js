@@ -1,9 +1,13 @@
 import React, { Component } from "react";
 import { Container, Input, Button, Row, Col } from "reactstrap";
+import ReactGA from "react-ga";
 import NavBar from "./components/NavBar";
 import GameCard from "./components/GameCard";
 import "./App.css";
 import games from "./shared/data/formattedListPSVR.json";
+
+ReactGA.initialize("UA-121324232-1");
+ReactGA.pageview(window.location.pathname);
 
 class App extends Component {
   state = {
