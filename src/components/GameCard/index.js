@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Collapse, Card, CardBody, Row, Col } from "reactstrap";
-import { format, parse } from "date-fns";
 import Aim from "../../shared/icons/Aim";
 import Move from "../../shared/icons/Move";
 import Vive from "../../shared/icons/Vive";
