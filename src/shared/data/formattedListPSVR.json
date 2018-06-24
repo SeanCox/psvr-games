@@ -1,18 +1,5 @@
 [
   {
-    "title": "North America",
-    "image": "",
-    "releaseDate": { "na": "", "eu": "", "jp": "", "asia": "" },
-    "genre": "Europe",
-    "developer": "Japan",
-    "publisher": "Asia non-Japan",
-    "PSProEnhanced": false,
-    "controlTypes": { "aim": false, "dualshock": false, "move": false },
-    "crossPlatform": { "rift": false, "vive": false },
-    "amazon": "",
-    "psn": ""
-  },
-  {
     "title": "The 100 Wonders of Japan: Fall Leaves Changing in Kyoto",
     "image": "",
     "releaseDate": {
