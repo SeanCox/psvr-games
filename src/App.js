@@ -21,14 +21,8 @@ class App extends Component {
     this.setState({ searchTerm: term });
   }
 
-  toggleDualshock() {
-    this.setState({ dualshockFilter: !this.state.dualshockFilter });
-  }
-  toggleMove() {
-    this.setState({ moveFilter: !this.state.moveFilter });
-  }
-  toggleAim() {
-    this.setState({ aimFilter: !this.state.aimFilter });
+  toggleController(controller) {
+    this.setState({ [controller]: !this.state[controller] });
   }
 
   filterList() {
@@ -40,10 +34,21 @@ class App extends Component {
     if (this.state.aimFilter)
       gamelist = gamelist.filter(game => game.controlTypes.aim);
     return gamelist
-      .filter(game =>
-        game.title.toLowerCase().includes(this.state.searchTerm.toLowerCase())
+      .filter(
+        game =>
+          game.title
+            .toLowerCase()
+            .includes(this.state.searchTerm.toLowerCase()) ||
+          game.developer
+            .toLowerCase()
+            .includes(this.state.searchTerm.toLowerCase()) ||
+          game.genre.toLowerCase().includes(this.state.searchTerm.toLowerCase())
       )
-      .map(gameInfo => <GameCard key={gameInfo.title} {...gameInfo} />);
+      .map(gameInfo => (
+        <Col key={gameInfo.title} xs="12" md="6">
+          <GameCard {...gameInfo} />
+        </Col>
+      ));
   }
 
   render() {
@@ -62,7 +67,7 @@ class App extends Component {
             <Col xs={{ size: 3, offset: 3 }} md={{ size: 1, offset: 5 }}>
               <Button
                 color={this.state.dualshockFilter ? "warning" : "primary"}
-                onClick={() => this.toggleDualshock()}
+                onClick={() => this.toggleController("dualshockFilter")}
               >
                 DS4
               </Button>
@@ -70,7 +75,7 @@ class App extends Component {
             <Col xs="3" md={{ size: 1, offset: 0 }}>
               <Button
                 color={this.state.moveFilter ? "warning" : "primary"}
-                onClick={() => this.toggleMove()}
+                onClick={() => this.toggleController("moveFilter")}
               >
                 Move
               </Button>
@@ -78,13 +83,13 @@ class App extends Component {
             <Col xs="3" md="1">
               <Button
                 color={this.state.aimFilter ? "warning" : "primary"}
-                onClick={() => this.toggleAim()}
+                onClick={() => this.toggleController("aimFilter")}
               >
                 Aim
               </Button>
             </Col>
           </Row>
-          {this.filterList()}
+          <Row>{this.filterList()}</Row>
         </Container>
       </div>
     );
