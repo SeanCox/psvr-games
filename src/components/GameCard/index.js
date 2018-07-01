@@ -3,8 +3,11 @@ import { Collapse, Card, CardBody, Row, Col } from "reactstrap";
 import Aim from "../../shared/icons/Aim";
 import Dualshock from "../../shared/icons/Dualshock";
 import Move from "../../shared/icons/Move";
-import Vive from "../../shared/icons/Vive";
-import Oculus from "../../shared/icons/Oculus";
+import Bike from "../../shared/icons/Bike";
+import Wheel from "../../shared/icons/Wheel";
+import Flight from "../../shared/icons/Flight";
+import Headset from "../../shared/icons/Headset";
+import Info from "../../shared/icons/Info";
 import img from "../../shared/img/placeholder.png";
 import "./index.css";
 
@@ -40,59 +43,63 @@ export default class extends Component {
   render() {
     const game = this.props;
     return (
-      <Card className="game-card" onClick={this.toggle}>
+      <Card className="game-card">
         <CardBody>
           <Row>
-            <Col xs={{ size: 4, order: 0 }} md="2">
+            <Col xs={{ size: 4, order: 0 }}>
               <img
                 src={game.image || img}
                 style={{ height: "100px", width: "100px" }}
                 alt="game"
               />
             </Col>
-            <Col md="7">
-              <Row>
-                <Col xs="12" className="game-title">
-                  {game.title}
-                </Col>
-              </Row>
+            <Col xs="8">
+              <Col xs="12" className="game-title">
+                {game.title}
+              </Col>
+              <Col xs="12" className="release-date">
+                {game.releaseDate}
+              </Col>
+            </Col>
+          </Row>
+          <Row>
+            <Col
+              xs={{ size: 1, offset: 11 }}
+              className="release-date"
+              onClick={this.toggle}
+            >
+              <Info opacity="1" />
+            </Col>
+          </Row>
+
+          <Row className="controller-icons">
+            {game.controlTypes.dualshock ? (
+              <Dualshock opacity="1" />
+            ) : (
+              <Dualshock />
+            )}
+            {game.controlTypes.move ? <Move opacity="1" /> : <Move />}
+            {game.controlTypes.aim ? <Aim opacity="1" /> : <Aim />}
+            {game.controlTypes.flightstick ? (
+              <Flight opacity="1" />
+            ) : (
+              <Flight />
+            )}
+            {game.controlTypes.wheel ? <Wheel opacity="1" /> : <Wheel />}
+            {game.controlTypes.virzoom ? <Bike opacity="1" /> : <Bike />}
+            {game.controlTypes.psvr ? <Headset opacity="1" /> : <Headset />}
+          </Row>
+
+          <Collapse isOpen={this.state.collapse}>
+            <Card className="inner-card">
               <Row>
                 <Col xs="12">
                   Developer: {this.getDeveloper(game.developer)}
                 </Col>
-                {/* <Col xs="12">Publisher: {game.publisher}</Col> */}
-              </Row>
-              <Row>
-                <Col xs="12">genre: {game.genre}</Col>
-              </Row>
-            </Col>
-            <Col md="3">
-              <Row>
-                <Col xs={{ size: 4, order: 1 }} md="4">
-                  {game.controlTypes.dualshock ? <Dualshock /> : ""}
-                </Col>
-                <Col xs={{ size: 4, order: 1 }} md="4">
-                  {game.controlTypes.move ? <Move /> : ""}
-                </Col>
-                <Col xs={{ size: 4, order: 2 }} md="4">
-                  {game.controlTypes.aim ? <Aim /> : ""}
+                <Col xs="12" className="genre">
+                  {game.genre}
                 </Col>
               </Row>
-              <Row>
-                <Col xs={{ size: 4, order: 3 }} md="4">
-                  {game.crossPlatform.vive ? <Vive /> : ""}
-                </Col>
-                <Col xs={{ size: 4, order: 4 }} md="4">
-                  {game.crossPlatform.rift ? <Oculus /> : ""}
-                </Col>
-              </Row>
-            </Col>
-          </Row>
-          <Collapse isOpen={this.state.collapse}>
-            <Card>
-              <CardBody>
-                <Row>Relase Date: {game.releaseDate}</Row>
-              </CardBody>
             </Card>
           </Collapse>
         </CardBody>

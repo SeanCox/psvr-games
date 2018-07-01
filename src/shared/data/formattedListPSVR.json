@@ -1,5 +1,310 @@
 [
   {
+    "title": "ESPER",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2680-CUSA11896_00-ESPER00000000000/1530285050000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "29 Jun 2018",
+    "genre": "Room Escape, Puzzle",
+    "developer":
+      "<a target=\"_blank\" href=\"https://coatsink.com/\">Coatsink Software</a>",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "HOMESTAR VR for PlayStation&#xAE;VR",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4142-CUSA12604_00-0000000000000000/1530295345000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "28 Jun 2018",
+    "genre": "Nature, Education",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.pckt.co.jp/\">The pocket company</a>",
+    "PSProEnhanced": "-",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Salary Man Escape VR",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1847-CUSA12489_00-SMESIEA000000001/1530028994000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "26 Jun 2018",
+    "genre": "Puzzle, Physics",
+    "developer":
+      "<a target=\"_blank\" href=\"http://red-accent.com/\">Red Accent Studios</a>",
+    "PSProEnhanced": "-",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Exorcist: Legion VR",
+    "image":
+      "img missing",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Horror, Movie Experience",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.wolfandwood.co.uk\">Wolf &amp; Wood Interactive Ltd.</a>",
+    "PSProEnhanced": "&#x2713;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Exorcist: Legion VR - Chapter 2: Idle Hands",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4486-CUSA11176_00-EXORCISTCHAPTER2/1529422635000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Horror, Movie Experience",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.wolfandwood.co.uk\">Wolf &amp; Wood Interactive Ltd.</a>",
+    "PSProEnhanced": "&#x2713;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "The Exorcist: Legion VR - Chapter 3: Skin Deep",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4486-CUSA11176_00-EXORCISTCHAPTER3/1529422641000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Horror, Movie Experience",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.wolfandwood.co.uk\">Wolf &amp; Wood Interactive Ltd.</a>",
+    "PSProEnhanced": "&#x2713;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Kona VR",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2047-CUSA07229_00-VRKONAVR00000000/1529422067000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Mystery, Adventure, Survival",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.ravenscourt-games.com/us/\">Ravenscourt Games</a>",
+    "PSProEnhanced": "-",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Rooms: The Unsolvable Puzzle",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4475-CUSA11925_00-ROOMS20180506V00/1529421734000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Sliding Puzzle",
+    "developer":
+      "<a target=\"_blank\" href=\"https://www.handmadegame.net/\">HandMade Game</a>",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "SculptrVR",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2696-CUSA06696_00-0000000000000000/1530198628000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Design, Modeling",
+    "developer": "SculptrVR",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VRobot (EU/UK)",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/999/EP3250-CUSA09547_00-VROBOTVROBOTVROB/1530255910000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "19 Jun 2018",
+    "genre": "Robots, Destruction, Sci-Fi",
+    "developer": "<a target=\"_blank\" href=\"http://Luden.io\">Luden.io</a>",
+    "PSProEnhanced": "-",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Dark Legion",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1496-CUSA12194_00-DARKLEGION0000EN/1529075269000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "15 Jun 2018",
+    "genre": "First-Person Shooter, Sci-Fi, Adventure, Action",
+    "developer": "Ice World",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Ranch Planet",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1496-CUSA11800_00-ACE00000000RANUS/1529075263000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "15 Jun 2018",
+    "genre": "Casual, Arcade",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.gamepoch.com\">Gamepoch, Inc.</a>",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Football Nation VR&#x2122; Tournament 2018",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4068-CUSA09880_00-FNVR1US000000001/1530144683000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "7 Jun 2018",
+    "genre": "Soccer/Football, Sports",
+    "developer":
+      "<a target=\"_blank\" href=\"http://www.cherrypopgames.com/\">Cherry Pop Games</a>",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "RollerCoaster Legends II: Thor&apos;s Hammer",
+    "image":
+      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP3202-CUSA11927_00-0000000000000001/1529969307000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+    "releaseDate": "5 Jun 2018",
+    "genre": "Rollercoasters, History",
+    "developer":
+      "<a target=\"_blank\" href=\"https://www.warducks.com\">WarDucks</a>",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Along Together",
     "image":
       "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0721-CUSA12124_00-ALONGTOGETHERTHE/1527609108000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
@@ -76,7 +381,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": true,
       "psvr": false,
@@ -163,9 +468,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -288,7 +593,7 @@
     "image":
       "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4520-CUSA11261_00-0000000000000000/1525189277000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
     "releaseDate": "1 May 2018",
-    "genre": "Flight, Arcade, On-Rails Shooter, Casual",
+    "genre": "Flight, Arcade, Casual",
     "developer":
       "<a target=\"_blank\" href=\"https://www.facebook.com/andreas.vonlepel\">Andreas von Lepel</a>",
     "PSProEnhanced": "-",
@@ -767,28 +1072,6 @@
     "psn": ""
   },
   {
-    "title": "VRFC Virtual Reality Football Club",
-    "image":
-      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4068-CUSA09880_00-SSVR1US000000001/1520355340000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
-    "releaseDate": "6 Mar 2018",
-    "genre": "Soccer/Football, Sports",
-    "developer":
-      "<a target=\"_blank\" href=\"http://www.cherrypopgames.com/\">Cherry Pop Games</a>",
-    "PSProEnhanced": "&#x2717;",
-    "controlTypes": {
-      "aim": false,
-      "dualshock": false,
-      "flightstick": false,
-      "move": true,
-      "psvr": false,
-      "virzoom": false,
-      "wheel": false
-    },
-    "crossPlatform": { "rift": false, "vive": false },
-    "amazon": "",
-    "psn": ""
-  },
-  {
     "title": "Blasters of the Universe",
     "image":
       "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1264-CUSA10280_00-4152434849414354/1519751745000/image?w%3D240%26h%3D240%26bg_color%3D000000%26opacity%3D100%26_version%3D00_09_000&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
@@ -908,8 +1191,8 @@
       "<a target=\"_blank\" href=\"http://www.strangegamesstudios.com\">Strange Games Studios</a>",
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
-      "aim": false,
-      "dualshock": false,
+      "aim": true,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -1867,7 +2150,7 @@
   {
     "title": "PixelJunk VR Dead Hungry",
     "image":
-      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0743-CUSA09274_00-DHPSVR0000000000/1528218092000/image?_version%3D00_09_000%26platform%3Dchihiro%26w%3D281%26h%3D281%26bg_color%3D000000%26opacity%3D100&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+      "img missing",
     "releaseDate": "25 Oct 2017",
     "genre": "Zombies, Wave Shooter",
     "developer":
@@ -1897,9 +2180,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2007,7 +2290,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2029,9 +2312,9 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2073,9 +2356,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2095,9 +2378,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2119,7 +2402,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2161,9 +2444,9 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2183,9 +2466,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2207,7 +2490,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2599,7 +2882,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2623,7 +2906,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2643,7 +2926,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2665,7 +2948,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2689,7 +2972,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2709,7 +2992,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2731,7 +3014,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2754,7 +3037,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2776,7 +3059,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2800,7 +3083,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2820,7 +3103,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2844,7 +3127,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2866,7 +3149,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2886,7 +3169,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -2908,9 +3191,9 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2930,9 +3213,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2954,7 +3237,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -2998,7 +3281,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3020,7 +3303,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3040,7 +3323,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3061,10 +3344,10 @@
       "<a target=\"_blank\" href=\"http://vertigo-games.com\">Vertigo Games</a>",
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
-      "aim": false,
-      "dualshock": false,
+      "aim": true,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3084,7 +3367,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3108,7 +3391,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3128,9 +3411,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3172,7 +3455,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3194,9 +3477,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3216,7 +3499,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3282,7 +3565,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3304,9 +3587,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3327,7 +3610,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3347,7 +3630,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3369,7 +3652,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3391,9 +3674,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3413,7 +3696,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3427,7 +3710,7 @@
   {
     "title": "The Chainsmokers Paris.VR",
     "image":
-      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP8828-CUSA07482_00-CHAINSMOKERSVRXX/1498642580000/image?_version%3D00_09_000%26platform%3Dchihiro%26w%3D281%26h%3D281%26bg_color%3D000000%26opacity%3D100&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+      "img missing",
     "releaseDate": "28 Apr 2017",
     "genre": "Music Experience",
     "developer":
@@ -3435,7 +3718,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3457,9 +3740,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3479,7 +3762,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3502,7 +3785,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3522,7 +3805,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3544,7 +3827,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3566,7 +3849,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3588,7 +3871,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3610,7 +3893,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3654,7 +3937,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3676,7 +3959,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3698,7 +3981,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3720,9 +4003,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3742,7 +4025,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3764,9 +4047,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3788,7 +4071,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3810,7 +4093,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3830,7 +4113,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3851,9 +4134,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3873,7 +4156,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3895,7 +4178,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3917,7 +4200,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3941,7 +4224,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -3961,7 +4244,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -3983,7 +4266,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4004,7 +4287,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4048,7 +4331,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4070,10 +4353,10 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -4092,12 +4375,12 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
       "virzoom": false,
-      "wheel": false
+      "wheel": true
     },
     "crossPlatform": { "rift": false, "vive": false },
     "amazon": "",
@@ -4117,7 +4400,7 @@
       "dualshock": false,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -4135,7 +4418,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4157,7 +4440,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4179,7 +4462,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4203,7 +4486,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4223,9 +4506,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4245,7 +4528,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4267,7 +4550,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4289,7 +4572,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4311,7 +4594,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4335,7 +4618,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4357,7 +4640,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4377,7 +4660,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4399,7 +4682,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4421,7 +4704,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4465,9 +4748,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4487,9 +4770,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4508,7 +4791,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4529,7 +4812,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4550,7 +4833,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4572,7 +4855,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4593,9 +4876,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4615,7 +4898,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4636,7 +4919,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4658,7 +4941,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4679,7 +4962,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4700,7 +4983,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4745,7 +5028,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4764,9 +5047,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4831,7 +5114,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4855,7 +5138,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -4874,7 +5157,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4895,7 +5178,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4917,7 +5200,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4938,7 +5221,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4960,7 +5243,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -4983,7 +5266,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5006,7 +5289,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5026,7 +5309,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5047,7 +5330,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5071,7 +5354,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5091,7 +5374,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5113,9 +5396,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5135,9 +5418,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5159,7 +5442,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5179,7 +5462,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5201,7 +5484,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5225,7 +5508,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5248,7 +5531,7 @@
       "dualshock": false,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -5267,9 +5550,9 @@
     "PSProEnhanced": "YES",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5289,9 +5572,9 @@
     "PSProEnhanced": "YES",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5311,7 +5594,7 @@
     "PSProEnhanced": "YES",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5333,7 +5616,7 @@
     "PSProEnhanced": "YES",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5354,10 +5637,10 @@
       "<a target=\"_blank\" href=\"http://phosphorgames.com/\">Phosphor Games Studio</a>",
     "PSProEnhanced": "YES",
     "controlTypes": {
-      "aim": false,
+      "aim": true,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5377,9 +5660,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5399,7 +5682,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5421,12 +5704,12 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
       "virzoom": false,
-      "wheel": false
+      "wheel": true
     },
     "crossPlatform": { "rift": false, "vive": false },
     "amazon": "",
@@ -5443,7 +5726,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5465,8 +5748,8 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
-      "flightstick": false,
+      "dualshock": true,
+      "flightstick": true,
       "move": false,
       "psvr": false,
       "virzoom": false,
@@ -5486,7 +5769,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5508,7 +5791,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5530,9 +5813,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5552,9 +5835,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5577,7 +5860,7 @@
       "dualshock": false,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -5596,7 +5879,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5618,9 +5901,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5664,7 +5947,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5727,10 +6010,10 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -5749,7 +6032,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5770,9 +6053,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5791,7 +6074,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5813,10 +6096,10 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -5835,9 +6118,9 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5879,9 +6162,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5901,7 +6184,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5925,7 +6208,7 @@
       "dualshock": false,
       "flightstick": false,
       "move": false,
-      "psvr": false,
+      "psvr": true,
       "virzoom": false,
       "wheel": false
     },
@@ -5946,7 +6229,7 @@
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -5966,7 +6249,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -5988,7 +6271,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6009,7 +6292,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6031,9 +6314,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -6053,9 +6336,9 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -6075,7 +6358,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6097,9 +6380,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -6118,7 +6401,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6133,7 +6416,7 @@
     "title":
       "<a target=\"_blank\" href=\"http://100ftrobotgolf.com/\">100ft Robot Golf</a>",
     "image":
-      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0476-CUSA04678_00-100FTKAIJUBUNDLE/1527290165000/image?_version%3D00_09_000%26platform%3Dchihiro%26w%3D124%26h%3D124%26bg_color%3D000000%26opacity%3D100&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
+      "img missing",
     "releaseDate": "10 Oct 2016",
     "genre": "Sport",
     "developer":
@@ -6141,7 +6424,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6163,7 +6446,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6185,7 +6468,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6207,9 +6490,9 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -6229,7 +6512,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6251,7 +6534,7 @@
     "PSProEnhanced": "&#x2713;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6273,7 +6556,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6295,7 +6578,7 @@
     "PSProEnhanced": "&#x2717;",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
@@ -6317,7 +6600,7 @@
     "PSProEnhanced": "-",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
