@@ -8,8 +8,6 @@ import Wheel from "../../shared/icons/Wheel";
 import Flight from "../../shared/icons/Flight";
 import Headset from "../../shared/icons/Headset";
 import Info from "../../shared/icons/Info";
-import Vive from "../../shared/icons/Vive";
-import Oculus from "../../shared/icons/Oculus";
 import img from "../../shared/img/placeholder.png";
 import "./index.css";
 
