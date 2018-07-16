@@ -1,15 +1,15 @@
-import React, { Component } from "react";
-import { Collapse, Card, CardBody, Row, Col } from "reactstrap";
-import Aim from "../../shared/icons/Aim";
-import Dualshock from "../../shared/icons/Dualshock";
-import Move from "../../shared/icons/Move";
-import Bike from "../../shared/icons/Bike";
-import Wheel from "../../shared/icons/Wheel";
-import Flight from "../../shared/icons/Flight";
-import Headset from "../../shared/icons/Headset";
-import Info from "../../shared/icons/Info";
-import img from "../../shared/img/placeholder.png";
-import "./index.css";
+import React, { Component } from 'react';
+import { Collapse, Card, CardBody, Row, Col } from 'reactstrap';
+import Aim from '../../shared/icons/Aim';
+import Dualshock from '../../shared/icons/Dualshock';
+import Move from '../../shared/icons/Move';
+import Bike from '../../shared/icons/Bike';
+import Wheel from '../../shared/icons/Wheel';
+import Flight from '../../shared/icons/Flight';
+import Headset from '../../shared/icons/Headset';
+import Info from '../../shared/icons/Info';
+import img from '../../shared/img/placeholder.png';
+import './index.css';
 
 export default class extends Component {
   constructor(props) {
@@ -27,18 +27,18 @@ export default class extends Component {
     let end = false;
 
     return url
-      .split("")
+      .split('')
       .slice(2, url.length - 1)
       .map(char => {
         if (count > 0 && end === false) toggle = true;
-        if (char === ">") count++;
-        if (char === "<") {
+        if (char === '>') count++;
+        if (char === '<') {
           end = true;
           toggle = false;
         }
-        return toggle ? char : "";
+        return toggle ? char : '';
       })
-      .join("");
+      .join('');
   };
   render() {
     const game = this.props;
@@ -47,11 +47,7 @@ export default class extends Component {
         <CardBody>
           <Row>
             <Col xs={{ size: 4, order: 0 }}>
-              <img
-                src={game.image || img}
-                style={{ height: "100px", width: "100px" }}
-                alt="game"
-              />
+              <img src={game.image || img} style={{ height: '100px', width: '100px' }} alt="game" />
             </Col>
             <Col xs="8">
               <Col xs="12" className="game-title">
@@ -63,28 +59,16 @@ export default class extends Component {
             </Col>
           </Row>
           <Row>
-            <Col
-              xs={{ size: 1, offset: 11 }}
-              className="release-date"
-              onClick={this.toggle}
-            >
+            <Col xs={{ size: 1, offset: 11 }} className="release-date" onClick={this.toggle}>
               <Info opacity="1" />
             </Col>
           </Row>
 
           <Row className="controller-icons">
-            {game.controlTypes.dualshock ? (
-              <Dualshock opacity="1" />
-            ) : (
-              <Dualshock />
-            )}
+            {game.controlTypes.dualshock ? <Dualshock opacity="1" /> : <Dualshock />}
             {game.controlTypes.move ? <Move opacity="1" /> : <Move />}
             {game.controlTypes.aim ? <Aim opacity="1" /> : <Aim />}
-            {game.controlTypes.flightstick ? (
-              <Flight opacity="1" />
-            ) : (
-              <Flight />
-            )}
+            {game.controlTypes.flightstick ? <Flight opacity="1" /> : <Flight />}
             {game.controlTypes.wheel ? <Wheel opacity="1" /> : <Wheel />}
             {game.controlTypes.virzoom ? <Bike opacity="1" /> : <Bike />}
             {game.controlTypes.psvr ? <Headset opacity="1" /> : <Headset />}
@@ -94,7 +78,8 @@ export default class extends Component {
             <Card className="inner-card">
               <Row>
                 <Col xs="12">
-                  Developer: {this.getDeveloper(game.developer)}
+                  <div> {game.PSProEnhanced === '&#x2713;' ? 'PS4 Pro' : 'PS4'}</div>
+                  <div>Developer: {this.getDeveloper(game.developer)}</div>
                 </Col>
                 <Col xs="12" className="genre">
                   {game.genre}
