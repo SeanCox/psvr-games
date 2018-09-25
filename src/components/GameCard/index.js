@@ -3,6 +3,7 @@ import { Collapse, Card, CardBody, Row, Col } from 'reactstrap';
 import Aim from '../../shared/icons/Aim';
 import Dualshock from '../../shared/icons/Dualshock';
 import Move from '../../shared/icons/Move';
+// import Nav from '../../shared/icons/Nav';
 import Bike from '../../shared/icons/Bike';
 import Wheel from '../../shared/icons/Wheel';
 import Flight from '../../shared/icons/Flight';
@@ -42,6 +43,7 @@ export default class extends Component {
   };
   render() {
     const game = this.props;
+    console.log(game);
     return (
       <Card className="game-card">
         <CardBody>
@@ -67,6 +69,7 @@ export default class extends Component {
           <Row className="controller-icons">
             {game.controlTypes.dualshock ? <Dualshock opacity="1" /> : <Dualshock />}
             {game.controlTypes.move ? <Move opacity="1" /> : <Move />}
+            {/* {game.controlTypes.nav ? <Nav opacity="1" /> : <Nav />} */}
             {game.controlTypes.aim ? <Aim opacity="1" /> : <Aim />}
             {game.controlTypes.flightstick ? <Flight opacity="1" /> : <Flight />}
             {game.controlTypes.wheel ? <Wheel opacity="1" /> : <Wheel />}
@@ -79,6 +82,8 @@ export default class extends Component {
               <Row>
                 <Col xs="12">
                   <div> {game.PSProEnhanced === '&#x2713;' ? 'PS4 Pro' : 'PS4'}</div>
+                  <div> {game.numberOfPlayers} </div>
+                  <div> {game.hasDisc === '&#x2713;' ? 'Retail Disc' : 'No Disc'}</div>
                   <div>Developer: {this.getDeveloper(game.developer)}</div>
                 </Col>
                 <Col xs="12" className="genre">
