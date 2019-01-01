@@ -43,7 +43,6 @@ export default class extends Component {
   };
   render() {
     const game = this.props;
-    console.log(game);
     return (
       <Card className="game-card">
         <CardBody>
